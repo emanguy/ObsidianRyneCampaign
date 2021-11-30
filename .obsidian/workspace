@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Xel'tra Amaranth/Backstory.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
