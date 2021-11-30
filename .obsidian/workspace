@@ -86,8 +86,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "35f95316a7f6db9c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
