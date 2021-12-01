@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Backstory.md",
-            "mode": "preview"
+            "file": "Session Notes/2021-11-30.md",
+            "mode": "source"
           }
         }
       }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Backstory.md",
+                "file": "Session Notes/2021-11-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Backstory.md"
+                "file": "Session Notes/2021-11-30.md"
               }
             }
           }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Backstory.md",
+                "file": "Session Notes/2021-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +180,8 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Session Notes/2021-11-30.md",
+    "Events/Furean Games.md",
     "Xel'tra Amaranth/Backstory.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Maneuvers.md",
@@ -188,8 +189,6 @@
     "NPCs/Backstory Characters/Anhorn Littlebrush.md",
     "NPCs/Backstory Characters/Acatea Suyusi.md",
     "NPCs/Backstory Characters/Tinesi Dayarus.md",
-    "NPCs/Backstory Characters/Steelhorn Thunderhammer.md",
-    "NPCs/Backstory Characters/Gunug Bristlebraun.md",
-    "Locations/Ahn’Qiraj.md"
+    "NPCs/Backstory Characters/Steelhorn Thunderhammer.md"
   ]
 }
