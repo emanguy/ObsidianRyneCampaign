@@ -4,6 +4,7 @@
 * Darkvision
 * [[Fey Ancestry]]
 * [[Relentless Endurance]]
+  * [ ] Available (see for recharge)
 * [[Savage Attacks]]
 
 ## Monk
