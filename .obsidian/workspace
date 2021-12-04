@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Soulrune Dagger.md",
+            "file": "Xel'tra Amaranth/Equipment/Chakram.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Soulrune Dagger.md",
+                "file": "Xel'tra Amaranth/Equipment/Chakram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,12 +50,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "repelStrength": 4.1025641025641,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7333602299929507,
+                  "scale": 0.7763143028551646,
                   "close": true
                 }
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Soulrune Dagger.md"
+                "file": "Xel'tra Amaranth/Equipment/Chakram.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Soulrune Dagger.md",
+                "file": "Xel'tra Amaranth/Equipment/Chakram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,8 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Soulrune Dagger.md",
+    "Xel'tra Amaranth/Equipment/Chakram.md",
+    "Xel'tra Amaranth/Equipment/Soulrune Dagger.md",
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Abilities/Destructive Wave.md",
@@ -188,7 +189,6 @@
     "Locations/Valero.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Abilities/Superiority Dice.md",
-    "Session Notes/2021-12-04.md"
+    "Xel'tra Amaranth/Abilities/Superiority Dice.md"
   ]
 }
