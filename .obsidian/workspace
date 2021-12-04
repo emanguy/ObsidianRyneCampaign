@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities.md",
+            "file": "Events/Furean Games.md",
             "mode": "preview"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Events/Furean Games.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Events/Furean Games.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Events/Furean Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Events/Furean Games.md",
+    "Session Notes/2021-12-04.md",
+    "Session Notes/2021-11-30.md",
+    "obsidian_data/Templates/Session Notes Template.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Abilities/Combat Panic.md",
     "Xel'tra Amaranth/Equipment/Opportunity Boots.md",
-    "Xel'tra Amaranth/Abilities/Orcish Fury.md",
-    "Xel'tra Amaranth/Abilities/Sharpshooter.md",
-    "Xel'tra Amaranth/Abilities/Maneuvers.md",
-    "Xel'tra Amaranth/Abilities/Rally.md",
-    "Xel'tra Amaranth/Abilities/Disarming Attack.md",
-    "Xel'tra Amaranth/Abilities/Lunging Attack.md",
-    "Xel'tra Amaranth/Abilities/Action Surge.md"
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Abilities/Combat Panic.md"
   ]
 }
