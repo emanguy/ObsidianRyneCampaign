@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Session Notes/2021-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Session Notes/2021-12-04.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Session Notes/2021-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,8 +219,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81aeab24330be399",
+  "active": "e38314b953a7e6bd",
   "lastOpenFiles": [
+    "Session Notes/2021-12-04.md",
     "Events/Furean Games.md",
     "Organizations/Zentarim.md",
     "Events/Battle of the Bards.md",
@@ -229,7 +230,6 @@
     "Characters/NPCs/Backstory Characters/Anhorn Littlebrush.md",
     "Xel'tra Amaranth/Equipment/Trader's Ring.md",
     "Characters/Player Characters/Vistra.md",
-    "Characters/Player Characters/Orluna.md",
-    "Characters/Player Characters/Lyrabeck.md"
+    "Characters/Player Characters/Orluna.md"
   ]
 }
