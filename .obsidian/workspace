@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Ankhmar.md",
-            "mode": "source"
+            "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+            "mode": "preview"
           }
         }
       }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Ankhmar.md",
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ankhmar.md"
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ankhmar.md",
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
-    "Locations/Ankhmar.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
+    "Events/Furean Games.md",
+    "Locations/Anasi.md",
+    "Locations/Ankhmar.md",
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Equipment/Chakram.md",
-    "Session Notes/2021-12-04.md",
-    "Xel'tra Amaranth/Equipment/Soulrune Dagger.md",
-    "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Xel'tra Amaranth/Abilities/Destructive Wave.md",
-    "Xel'tra Amaranth/Backstory.md",
-    "Locations/Valero.md"
+    "Session Notes/2021-12-04.md"
   ]
 }
