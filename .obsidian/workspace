@@ -8,16 +8,36 @@
         "type": "split",
         "children": [
           {
-            "id": "81aeab24330be399",
-            "type": "leaf",
+            "id": "c3a1e8a97e5b6d73",
+            "type": "split",
             "dimension": 67.88899900891973,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Furean Games.md",
-                "mode": "preview"
+            "children": [
+              {
+                "id": "81aeab24330be399",
+                "type": "leaf",
+                "dimension": 65.57239057239057,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Events/Battle of the Bards.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "18248caca86dea30",
+                "type": "leaf",
+                "dimension": 34.427609427609426,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Xel'tra Amaranth/Abilities.md",
+                    "mode": "preview"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "e38314b953a7e6bd",
@@ -52,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Events/Battle of the Bards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +95,7 @@
                   "repelStrength": 4.1025641025641,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7763143028551646,
+                  "scale": 0.7304870350550794,
                   "close": true
                 }
               }
@@ -102,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amanda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Events/Battle of the Bards.md"
               }
             }
           }
@@ -180,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Events/Battle of the Bards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,15 +220,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Events/Battle of the Bards.md",
     "Events/Furean Games.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Characters/NPCs/Backstory Characters/Anhorn Littlebrush.md",
     "Xel'tra Amaranth/Equipment/Trader's Ring.md",
     "Characters/Player Characters/Vistra.md",
     "Characters/Player Characters/Orluna.md",
     "Characters/Player Characters/Lyrabeck.md",
-    "Characters/The Party.md",
-    "Characters/Player Characters/Ripley.md",
-    "Session Notes/2021-12-04.md",
-    "Events/Battle of the Bards.md"
+    "Characters/The Party.md"
   ]
 }

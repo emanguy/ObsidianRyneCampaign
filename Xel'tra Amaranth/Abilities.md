@@ -52,4 +52,4 @@
 
 ### From Equipment
 
-* [[Opportunity Boots]]
+* [[Inventory Item Abilities]]
