@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:NPCs",
+      "query": "path:Characters",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -47,5 +47,5 @@
   "linkStrength": 0.808988764044944,
   "linkDistance": 250,
   "scale": 0.22720691039857263,
-  "close": true
+  "close": false
 }
