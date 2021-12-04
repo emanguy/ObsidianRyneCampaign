@@ -9,4 +9,5 @@
   * [ ] Use 2
 * When using Talosshard against a Siege Titan, can make a DC 15 dex check to short circuit it for a time
   * Use an action to keep the Siege Titan disabled, starts at DC 8 and increases by 8 every attempt
-* Can spend an action to break the spear over Xel'tra's knee. 
+* Can spend an action to break the spear over Xel'tra's knee. This will unleash a 5th level [[Destructive Wave]].
+  * Xel'tra is immune to the damage if she does this intentionally
