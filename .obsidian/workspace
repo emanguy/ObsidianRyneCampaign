@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Characters/Player Characters/Orluna.md",
                 "mode": "preview"
               }
             }
@@ -52,7 +52,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Characters/Player Characters/Orluna.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "engineer",
+                "query": "amanda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Characters/Player Characters/Orluna.md"
               }
             }
           }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Characters/Player Characters/Orluna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,6 +200,7 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Characters/Player Characters/Orluna.md",
     "Events/Furean Games.md",
     "Characters/The Party.md",
     "Characters/Player Characters/Ripley.md",
@@ -208,7 +209,6 @@
     "Characters/Player Characters/The Party.md",
     "Characters/Player Characters/Variel.md",
     "Characters/Player Characters/Raya.md",
-    "Characters/Player Characters/Vistra.md",
-    "Characters/Player Characters/Lyrabeck.md"
+    "Characters/Player Characters/Vistra.md"
   ]
 }
