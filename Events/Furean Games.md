@@ -4,7 +4,7 @@ Xel'tra is an engineer on her team and has a mending wrench. It has 4 repair cha
 
 * Using the [[Magnetic Suit]] in the games
 * There are bounties being placed to upset the games
-  * Insignia downward facing dragon - [[Zentarim]]
+  * [[Zentarim]] - detected by insignia
   * Targeting [[The Party]]
   * Planning an ambush
   * Happening at the [[Battle of the Bards]]

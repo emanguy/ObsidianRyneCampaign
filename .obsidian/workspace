@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Events/Battle of the Bards.md",
+                    "file": "Events/Furean Games.md",
                     "mode": "preview"
                   }
                 }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Battle of the Bards.md",
+                "file": "Events/Furean Games.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Battle of the Bards.md"
+                "file": "Events/Furean Games.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Battle of the Bards.md",
+                "file": "Events/Furean Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,19 +216,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
-    "Events/Battle of the Bards.md",
     "Events/Furean Games.md",
+    "Organizations/Zentarim.md",
+    "Events/Battle of the Bards.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Characters/NPCs/Backstory Characters/Anhorn Littlebrush.md",
     "Xel'tra Amaranth/Equipment/Trader's Ring.md",
     "Characters/Player Characters/Vistra.md",
     "Characters/Player Characters/Orluna.md",
-    "Characters/Player Characters/Lyrabeck.md",
-    "Characters/The Party.md"
+    "Characters/Player Characters/Lyrabeck.md"
   ]
 }
