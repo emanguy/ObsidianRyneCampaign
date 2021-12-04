@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Furean Games.md",
-            "mode": "preview"
+            "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
+            "mode": "source"
           }
         }
       }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
-    "Events/Furean Games.md",
-    "Session Notes/2021-12-04.md",
-    "Session Notes/2021-11-30.md",
-    "obsidian_data/Templates/Session Notes Template.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Weapons.md",
+    "Xel'tra Amaranth/Backstory.md",
+    "Locations/Valero.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Equipment/Opportunity Boots.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Abilities/Combat Panic.md"
+    "Xel'tra Amaranth/Abilities/Superiority Dice.md",
+    "Session Notes/2021-12-04.md",
+    "Events/Furean Games.md",
+    "Session Notes/2021-11-30.md"
   ]
 }
