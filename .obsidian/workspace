@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "engineer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,14 +182,14 @@
   "active": "81aeab24330be399",
   "lastOpenFiles": [
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Session Notes/2021-12-04.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
     "Events/Furean Games.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Locations/Anasi.md",
     "Locations/Ankhmar.md",
     "Xel'tra Amaranth/Weapons.md",
-    "Xel'tra Amaranth/Equipment/Chakram.md",
-    "Session Notes/2021-12-04.md"
+    "Xel'tra Amaranth/Equipment/Chakram.md"
   ]
 }
