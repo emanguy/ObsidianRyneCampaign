@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Player Characters/Moonbeam.md",
-                "mode": "preview"
+                "file": "Events/Furean Games.md",
+                "mode": "source"
               }
             }
           },
@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2021-12-04.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/Player Characters/Moonbeam.md",
+                "file": "Events/Furean Games.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Player Characters/Moonbeam.md"
+                "file": "Events/Furean Games.md"
               }
             }
           }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Player Characters/Moonbeam.md",
+                "file": "Events/Furean Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,15 +200,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Events/Furean Games.md",
     "Characters/Player Characters/Moonbeam.md",
+    "Organizations/Zentarim.md",
+    "Events/Rasha.md",
+    "Session Notes/2021-12-04.md",
     "Characters/Player Characters/Orluna.md",
     "Xel'tra Amaranth/Abilities/Superiority Dice.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Session Notes/2021-12-04.md",
-    "Characters/Player Characters/Caden.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Equipment/Magnetic Suit.md"
+    "Xel'tra Amaranth/Xel'tra Amaranth.md"
   ]
 }
