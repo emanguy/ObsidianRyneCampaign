@@ -44,6 +44,7 @@
 
 * [[Sharpshooter]]
 * [[Orcish Fury]]
+  * [ ] Available (see detail for recharge)
 
 ## Character-Specific
 
