@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/2021-11-30.md",
+            "file": "Xel'tra Amaranth/Martial Arts.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2021-11-30.md",
+                "file": "Xel'tra Amaranth/Martial Arts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2021-11-30.md"
+                "file": "Xel'tra Amaranth/Martial Arts.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2021-11-30.md",
+                "file": "Xel'tra Amaranth/Martial Arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Martial Arts.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Unarmored Defense.md",
+    "Xel'tra Amaranth/Abilities/Savage Attacks.md",
+    "Xel'tra Amaranth/Abilities/Relentless Endurance.md",
+    "Xel'tra Amaranth/Abilities/Maneuvers.md",
+    "Xel'tra Amaranth/Abilities/Fey Ancestry.md",
     "Session Notes/2021-11-30.md",
     "Events/Furean Games.md",
-    "Xel'tra Amaranth/Backstory.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Maneuvers.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "NPCs/Backstory Characters/Anhorn Littlebrush.md",
-    "NPCs/Backstory Characters/Acatea Suyusi.md",
-    "NPCs/Backstory Characters/Tinesi Dayarus.md",
-    "NPCs/Backstory Characters/Steelhorn Thunderhammer.md"
+    "Xel'tra Amaranth/Backstory.md"
   ]
 }
