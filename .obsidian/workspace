@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities/Ki Points.md",
-            "mode": "source"
+            "file": "Xel'tra Amaranth/Abilities/Action Surge.md",
+            "mode": "preview"
           }
         }
       }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki Points.md",
+                "file": "Xel'tra Amaranth/Abilities/Action Surge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki Points.md"
+                "file": "Xel'tra Amaranth/Abilities/Action Surge.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki Points.md",
+                "file": "Xel'tra Amaranth/Abilities/Action Surge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities/Ki Points.md",
-    "Xel'tra Amaranth/Abilities/Flurry of Blows.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
+    "Xel'tra Amaranth/Abilities/Action Surge.md",
+    "Xel'tra Amaranth/Abilities/Agile Parry.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Abilities/Martial Arts.md",
-    "Xel'tra Amaranth/Abilities/Martial Arts Die.md",
-    "Xel'tra Amaranth/Abilities/Unarmored Defense.md",
-    "Xel'tra Amaranth/Abilities/Savage Attacks.md",
-    "Xel'tra Amaranth/Abilities/Relentless Endurance.md",
-    "Xel'tra Amaranth/Abilities/Maneuvers.md"
+    "Xel'tra Amaranth/Abilities/Superiority Dice.md",
+    "Xel'tra Amaranth/Abilities/Second Wind.md",
+    "Xel'tra Amaranth/Abilities/Archery Fighting Style.md",
+    "Xel'tra Amaranth/Abilities/Deft Strike.md",
+    "Xel'tra Amaranth/Abilities/Ki.md",
+    "Xel'tra Amaranth/Abilities/Magic Kensei Weapons.md",
+    "Xel'tra Amaranth/Abilities/Kensei Shot.md"
   ]
 }

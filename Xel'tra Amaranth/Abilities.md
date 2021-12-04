@@ -11,11 +11,10 @@
 * [[Unarmored Defense]]
 * [[Martial Arts]]
 * [[Ki]]
+  * Resets after short or long rest
 * [[Unarmored Movement]]
-* [[Deflect Missiles]]
 * [[Slow Fall]]
 * [[Extra Attack]]
-* [[Stunning Strike]]
 * [[Ki-Power Strikes]]
 * [[Evasion]]
 * [[Stillness of Mind]]
@@ -31,11 +30,14 @@
 
 * [[Archery Fighting Style]]
 * [[Second Wind]]
+  * [ ] Available (see detail for recharge)
 * [[Action Surge]]
+  * [ ] Available (see detail for recharge)
 
 ### Battle Master
 
 * [[Superiority Dice]]
+  * Resets after a short or long rest
 * [[Maneuvers]]
 
 ## Feats
