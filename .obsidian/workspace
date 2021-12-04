@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Weapons.md",
-            "mode": "preview"
+            "file": "Locations/Ankhmar.md",
+            "mode": "source"
           }
         }
       }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Weapons.md",
+                "file": "Locations/Ankhmar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Weapons.md"
+                "file": "Locations/Ankhmar.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Weapons.md",
+                "file": "Locations/Ankhmar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,8 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Locations/Ankhmar.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Equipment/Chakram.md",
     "Session Notes/2021-12-04.md",
@@ -187,8 +189,6 @@
     "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Abilities/Destructive Wave.md",
     "Xel'tra Amaranth/Backstory.md",
-    "Locations/Valero.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Xel'tra Amaranth/Abilities.md"
+    "Locations/Valero.md"
   ]
 }
