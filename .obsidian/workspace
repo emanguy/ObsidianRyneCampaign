@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Characters/Player Characters/Vistra.md",
                 "mode": "preview"
               }
             }
@@ -52,7 +52,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Characters/Player Characters/Vistra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Characters/Player Characters/Vistra.md"
               }
             }
           }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Characters/Player Characters/Vistra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,6 +200,7 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Characters/Player Characters/Vistra.md",
     "Events/Furean Games.md",
     "Characters/Player Characters/Orluna.md",
     "Characters/Player Characters/Lyrabeck.md",
@@ -208,7 +209,6 @@
     "Session Notes/2021-12-04.md",
     "Events/Battle of the Bards.md",
     "Characters/Player Characters/The Party.md",
-    "Characters/Player Characters/Variel.md",
-    "Characters/Player Characters/Raya.md"
+    "Characters/Player Characters/Variel.md"
   ]
 }
