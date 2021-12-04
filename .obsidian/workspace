@@ -4,12 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "81aeab24330be399",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "476cee5b464f83f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "81aeab24330be399",
+            "type": "leaf",
+            "dimension": 67.88899900891973,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Moonbeam.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e38314b953a7e6bd",
+            "type": "leaf",
+            "dimension": 32.11100099108028,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2021-12-04.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -29,6 +52,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Characters/Player Characters/Moonbeam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Player Characters/Moonbeam.md"
+              }
             }
           }
         ]
@@ -154,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Player Characters/Moonbeam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,15 +200,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Characters/Player Characters/Moonbeam.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Characters/Player Characters/Caden.md",
     "Session Notes/2021-12-04.md",
+    "Characters/Player Characters/Caden.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
     "Events/Furean Games.md",
     "Xel'tra Amaranth/Abilities.md",
     "Locations/Anasi.md",
-    "Locations/Ankhmar.md",
-    "Xel'tra Amaranth/Weapons.md"
+    "Locations/Ankhmar.md"
   ]
 }
