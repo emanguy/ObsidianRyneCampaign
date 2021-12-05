@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Ankhmar/Ahn’Qiraj.md",
+                    "file": "Events/Furean Games.md",
                     "mode": "preview"
                   }
                 }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Ankhmar/Ahn’Qiraj.md",
+                "file": "Session Notes/2021-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ankhmar/Ahn’Qiraj.md"
+                "file": "Session Notes/2021-12-04.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ankhmar/Ahn’Qiraj.md",
+                "file": "Session Notes/2021-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81aeab24330be399",
+  "active": "e38314b953a7e6bd",
   "lastOpenFiles": [
-    "Locations/Ankhmar/Ahn’Qiraj.md",
+    "Session Notes/2021-12-04.md",
     "Events/Furean Games.md",
+    "Characters/Player Characters/Rasha.md",
+    "Locations/Ankhmar/Ahn’Qiraj.md",
     "Locations/Ankhmar/Anasi.md",
     "Locations/Ankhmar/The Sphinx.md",
     "Organizations/Zentarim.md",
     "Characters/Player Characters/Ripley.md",
     "Characters/NPCs/Raya.md",
-    "Characters/Player Characters/Rasha.md",
-    "Characters/Player Characters/Vistra.md",
-    "Session Notes/2021-12-04.md"
+    "Characters/Player Characters/Vistra.md"
   ]
 }
