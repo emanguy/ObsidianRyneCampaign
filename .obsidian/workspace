@@ -17,8 +17,11 @@
                 "type": "leaf",
                 "dimension": 65.57239057239057,
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Events/Furean Games.md",
+                    "mode": "preview"
+                  }
                 }
               },
               {
@@ -64,7 +67,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2021-12-04.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           }
@@ -89,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Session Notes/2021-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/2021-12-04.md"
+              }
             }
           }
         ]
@@ -214,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2021-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,17 +239,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81aeab24330be399",
+  "active": "e38314b953a7e6bd",
   "lastOpenFiles": [
-    "Characters/Player Characters/Lyra Beck.md",
+    "Session Notes/2021-12-04.md",
     "Events/Furean Games.md",
+    "Characters/Player Characters/Rasha.md",
+    "Characters/NPCs/Raya.md",
+    "Characters/Player Characters/Lyra Beck.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Weapons.md",
     "Characters/Player Characters/Vistra.md",
-    "Session Notes/2021-12-04.md",
-    "Characters/Player Characters/Rasha.md",
     "Locations/Ankhmar/Ahn’Qiraj.md",
-    "Locations/Ankhmar/Anasi.md",
-    "Locations/Ankhmar/The Sphinx.md"
+    "Locations/Ankhmar/Anasi.md"
   ]
 }
