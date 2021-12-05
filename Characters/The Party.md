@@ -2,7 +2,7 @@
 
   * [[Ripley]]
   * [[Caden]]
-  * [[Lyrabeck]]
+  * [[Lyra Beck]]
   * [[Vistra]]
   * [[Moonbeam]]
   * [[Rasha]]

@@ -10,31 +10,48 @@
           {
             "id": "c3a1e8a97e5b6d73",
             "type": "split",
-            "dimension": 67.88899900891973,
+            "dimension": 74.92566897918731,
             "children": [
               {
                 "id": "81aeab24330be399",
                 "type": "leaf",
                 "dimension": 65.57239057239057,
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Events/Furean Games.md",
-                    "mode": "preview"
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               },
               {
-                "id": "18248caca86dea30",
-                "type": "leaf",
+                "id": "5192264a90a8f96d",
+                "type": "split",
                 "dimension": 34.427609427609426,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Xel'tra Amaranth/Abilities.md",
-                    "mode": "preview"
+                "children": [
+                  {
+                    "id": "18248caca86dea30",
+                    "type": "leaf",
+                    "dimension": 63.357664233576635,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Xel'tra Amaranth/Abilities.md",
+                        "mode": "preview"
+                      }
+                    }
+                  },
+                  {
+                    "id": "4ca5f33f4642b0fd",
+                    "type": "leaf",
+                    "dimension": 36.64233576642336,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Xel'tra Amaranth/Weapons.md",
+                        "mode": "preview"
+                      }
+                    }
                   }
-                }
+                ],
+                "direction": "horizontal"
               }
             ],
             "direction": "vertical"
@@ -42,7 +59,7 @@
           {
             "id": "e38314b953a7e6bd",
             "type": "leaf",
-            "dimension": 32.11100099108028,
+            "dimension": 25.074331020812686,
             "state": {
               "type": "markdown",
               "state": {
@@ -72,7 +89,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2021-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/2021-12-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -200,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2021-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,17 +232,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e38314b953a7e6bd",
+  "active": "81aeab24330be399",
   "lastOpenFiles": [
-    "Session Notes/2021-12-04.md",
+    "Characters/Player Characters/Lyra Beck.md",
     "Events/Furean Games.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Weapons.md",
+    "Characters/Player Characters/Vistra.md",
+    "Session Notes/2021-12-04.md",
     "Characters/Player Characters/Rasha.md",
     "Locations/Ankhmar/Ahn’Qiraj.md",
     "Locations/Ankhmar/Anasi.md",
-    "Locations/Ankhmar/The Sphinx.md",
-    "Organizations/Zentarim.md",
-    "Characters/Player Characters/Ripley.md",
-    "Characters/NPCs/Raya.md",
-    "Characters/Player Characters/Vistra.md"
+    "Locations/Ankhmar/The Sphinx.md"
   ]
 }
