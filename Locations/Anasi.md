@@ -1,3 +1,0 @@
-# Anasi
-
-* Capitol city

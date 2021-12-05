@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Events/Furean Games.md",
+                    "file": "Locations/Ankhmar/Ahn’Qiraj.md",
                     "mode": "preview"
                   }
                 }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Locations/Ankhmar/Ahn’Qiraj.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Locations/Ankhmar/Ahn’Qiraj.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Locations/Ankhmar/Ahn’Qiraj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,15 +221,15 @@
   },
   "active": "81aeab24330be399",
   "lastOpenFiles": [
+    "Locations/Ankhmar/Ahn’Qiraj.md",
     "Events/Furean Games.md",
-    "Characters/Player Characters/Ripley.md",
+    "Locations/Ankhmar/Anasi.md",
+    "Locations/Ankhmar/The Sphinx.md",
     "Organizations/Zentarim.md",
+    "Characters/Player Characters/Ripley.md",
     "Characters/NPCs/Raya.md",
     "Characters/Player Characters/Rasha.md",
     "Characters/Player Characters/Vistra.md",
-    "Session Notes/2021-12-04.md",
-    "Events/Battle of the Bards.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md"
+    "Session Notes/2021-12-04.md"
   ]
 }
