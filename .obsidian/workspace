@@ -10,7 +10,7 @@
           {
             "id": "c3a1e8a97e5b6d73",
             "type": "split",
-            "dimension": 74.92566897918731,
+            "dimension": 68.6818632309217,
             "children": [
               {
                 "id": "81aeab24330be399",
@@ -62,12 +62,12 @@
           {
             "id": "e38314b953a7e6bd",
             "type": "leaf",
-            "dimension": 25.074331020812686,
+            "dimension": 31.318136769078297,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2021-12-04.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           }
