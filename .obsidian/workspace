@@ -4,79 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "476cee5b464f83f5",
-        "type": "split",
-        "children": [
-          {
-            "id": "c3a1e8a97e5b6d73",
-            "type": "split",
-            "dimension": 68.6818632309217,
-            "children": [
-              {
-                "id": "81aeab24330be399",
-                "type": "leaf",
-                "dimension": 65.57239057239057,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Events/Furean Games.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5192264a90a8f96d",
-                "type": "split",
-                "dimension": 34.427609427609426,
-                "children": [
-                  {
-                    "id": "18248caca86dea30",
-                    "type": "leaf",
-                    "dimension": 63.357664233576635,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Xel'tra Amaranth/Abilities.md",
-                        "mode": "preview",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "4ca5f33f4642b0fd",
-                    "type": "leaf",
-                    "dimension": 36.64233576642336,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Xel'tra Amaranth/Weapons.md",
-                        "mode": "preview",
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "direction": "horizontal"
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "e38314b953a7e6bd",
-            "type": "leaf",
-            "dimension": 31.318136769078297,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2021-12-04.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "87ea3cb391d6f39e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +29,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2021-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,11 +106,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59378f1d6c886cb0",
+        "id": "d0392952d6c7da62",
         "type": "tabs",
         "children": [
           {
-            "id": "8f4dc45e83de88e3",
+            "id": "9ac43f5aeafe6bc9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -188,7 +120,7 @@
         ]
       },
       {
-        "id": "d0392952d6c7da62",
+        "id": "509bb2ba30da2344",
         "type": "tabs",
         "children": [
           {
@@ -196,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/2021-12-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -224,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2021-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,11 +169,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e38314b953a7e6bd",
+  "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Characters/The Party.md",
     "Session Notes/2021-12-04.md",
     "Events/Furean Games.md",
     "Characters/Player Characters/Rasha.md",
@@ -253,7 +182,6 @@
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Weapons.md",
     "Characters/Player Characters/Vistra.md",
-    "Locations/Ankhmar/Ahn’Qiraj.md",
-    "Locations/Ankhmar/Anasi.md"
+    "Locations/Ankhmar/Ahn’Qiraj.md"
   ]
 }
