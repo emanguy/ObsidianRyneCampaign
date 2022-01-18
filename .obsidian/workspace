@@ -20,7 +20,8 @@
                   "type": "markdown",
                   "state": {
                     "file": "Events/Furean Games.md",
-                    "mode": "preview"
+                    "mode": "preview",
+                    "source": false
                   }
                 }
               },
@@ -37,7 +38,8 @@
                       "type": "markdown",
                       "state": {
                         "file": "Xel'tra Amaranth/Abilities.md",
-                        "mode": "preview"
+                        "mode": "preview",
+                        "source": false
                       }
                     }
                   },
@@ -49,7 +51,8 @@
                       "type": "markdown",
                       "state": {
                         "file": "Xel'tra Amaranth/Weapons.md",
-                        "mode": "preview"
+                        "mode": "preview",
+                        "source": false
                       }
                     }
                   }
@@ -67,7 +70,8 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2021-12-04.md",
-                "mode": "preview"
+                "mode": "preview",
+                "source": false
               }
             }
           }
