@@ -9,3 +9,6 @@ Xel'tra is an engineer on her team and has a mending wrench. It has 4 repair cha
   * Targeting [[The Party]]
   * Planning an ambush
   * Happening at the [[Battle of the Bards]]
+
+## Updated Cart Stats
+![](15.jpg)

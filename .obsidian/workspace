@@ -7,175 +7,104 @@
         "id": "87ea3cb391d6f39e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Events/Furean Games.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c53d0e712589c143",
-    "type": "split",
+    "id": "478a9d96d01e84c1",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "300ceabe4de12e70",
-        "type": "tabs",
-        "dimension": 28.047571853320118,
-        "children": [
-          {
-            "id": "e78e38745305394b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 4.1025641025641,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7304870350550794,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        "id": "8ee07a485a5e8aa7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "1cc9e67c56b8db2b",
-        "type": "tabs",
-        "dimension": 71.95242814667988,
-        "children": [
-          {
-            "id": "e293cf961b1b051b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2f555f4bb50db77",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "35f95316a7f6db9c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
+        "id": "0b6635d1a63a77a0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "6ba0e89fa5c42265",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "e3d673f7bbf655d6",
-    "type": "split",
+    "id": "ef23327094e59963",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d0392952d6c7da62",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ac43f5aeafe6bc9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        "id": "8db9348dd27b3737",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       },
       {
-        "id": "509bb2ba30da2344",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c148f00bbf92aea2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
+        "id": "8f3a4ba3c0dc090b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Events/Furean Games.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       },
       {
-        "id": "154db812d1f4cdf4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e373c1578de3d9f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "15d6e19de3c532a1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "4551b58a18f47300",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Events/Furean Games.md"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Events/Furean Games.md",
     "Characters/The Party.md",
     "Session Notes/2021-12-04.md",
-    "Events/Furean Games.md",
     "Characters/Player Characters/Rasha.md",
     "Characters/NPCs/Raya.md",
     "Characters/Player Characters/Lyra Beck.md",
