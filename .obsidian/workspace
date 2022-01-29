@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Weapons.md",
+            "file": "Xel'tra Amaranth/Abilities.md",
             "mode": "preview",
             "source": false
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Weapons.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Weapons.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Weapons.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +176,15 @@
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Weapons.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Abilities/Flurry of Blows.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Equipment/Chakram.md",
+    "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/Player Characters/Vistra.md",
     "Characters/Player Characters/Caden.md",
     "Characters/Player Characters/Rasha.md",
-    "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Xel'tra Amaranth/Equipment/Opportunity Boots.md",
-    "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
-    "Xel'tra Amaranth/Equipment/Trader's Ring.md"
+    "Xel'tra Amaranth/Equipment/Opportunity Boots.md"
   ]
 }
