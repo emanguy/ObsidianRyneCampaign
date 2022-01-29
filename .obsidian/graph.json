@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Characters/Player Characters\"",
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:Events",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 15.9550561797753,
   "linkStrength": 0.808988764044944,
   "linkDistance": 250,
-  "scale": 0.5595750979081742,
-  "close": true
+  "scale": 0.4242940089019072,
+  "close": false
 }
