@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities.md",
-            "mode": "preview",
+            "file": "Session Notes/2022-01-29.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2022-01-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,8 +61,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "7cf75374d42653ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bbaf7c1d42957022",
@@ -139,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Session Notes/2022-01-29.md"
               }
             }
           }
@@ -156,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2022-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,20 +180,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities.md",
-    "Session Notes/2022-01-28.md",
     "Session Notes/2022-01-29.md",
+    "Session Notes/2022-01-28.md",
+    "Characters/Player Characters/Vistra.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Equipment/Leader's Helm.md",
     "Characters/Player Characters/Rasha.md",
     "Characters/Player Characters/Ripley.md",
-    "Xel'tra Amaranth/Abilities/Flurry of Blows.md",
-    "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Xel'tra Amaranth/Equipment/Chakram.md"
+    "Xel'tra Amaranth/Abilities/Flurry of Blows.md"
   ]
 }
