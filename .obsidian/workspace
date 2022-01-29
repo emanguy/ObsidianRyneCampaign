@@ -14,14 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "2c5fc91e40c29799",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -185,14 +177,14 @@
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
     "Xel'tra Amaranth/Abilities.md",
-    "Characters/Player Characters/Moonbeam.md",
-    "Xel'tra Amaranth/Abilities/Martial Arts.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Reminders.md",
+    "Xel'tra Amaranth/Income.md",
+    "Characters/Player Characters/Moonbeam.md",
+    "Xel'tra Amaranth/Abilities/Martial Arts.md",
     "Session Notes/2021-12-04.md",
     "Session Notes/2021-11-30.md",
     "Session Notes/2022-01-28.md",
-    "Events/Furean Games.md",
-    "Useful External Links.md"
+    "Events/Furean Games.md"
   ]
 }
