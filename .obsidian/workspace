@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Furean Games.md",
-            "mode": "preview"
+            "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -18,99 +19,128 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "478a9d96d01e84c1",
-    "type": "mobile-drawer",
+    "id": "aa9209daf81886bb",
+    "type": "split",
     "children": [
       {
-        "id": "8ee07a485a5e8aa7",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "0b6635d1a63a77a0",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "bbaf7c1d42957022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "408dced764d9d35c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "98f516c0c3993c0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "6ba0e89fa5c42265",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "ef23327094e59963",
-    "type": "mobile-drawer",
+    "id": "fe76256b6a1a10b0",
+    "type": "split",
     "children": [
       {
-        "id": "8db9348dd27b3737",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "0b9aa7886ae41f12",
+        "type": "tabs",
+        "dimension": 39.14767096134787,
+        "children": [
+          {
+            "id": "056190793fc5c606",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "59b5571fe6afd768",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       },
       {
-        "id": "8f3a4ba3c0dc090b",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Events/Furean Games.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "ac3516d2911e55eb",
+        "type": "tabs",
+        "dimension": 22.993062438057482,
+        "children": [
+          {
+            "id": "9be9945220ab7fc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
+              }
+            }
           }
-        }
+        ]
       },
       {
-        "id": "4551b58a18f47300",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Events/Furean Games.md"
+        "id": "3fa7c5d3bad12e37",
+        "type": "tabs",
+        "dimension": 37.85926660059465,
+        "children": [
+          {
+            "id": "ab612326aaa31d91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
-    "Events/Furean Games.md",
-    "Characters/The Party.md",
-    "Session Notes/2021-12-04.md",
-    "Characters/Player Characters/Rasha.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Raya.md",
+    "Characters/NPCs/Sutek the Storm King.md",
+    "Characters/Player Characters/Moonbeam.md",
+    "Characters/Player Characters/Orluna.md",
+    "Characters/Player Characters/Caden.md",
     "Characters/Player Characters/Lyra Beck.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Weapons.md",
+    "Characters/Player Characters/Ripley.md",
     "Characters/Player Characters/Vistra.md",
-    "Locations/Ankhmar/Ahn’Qiraj.md"
+    "Characters/Player Characters/Variel.md"
   ]
 }
