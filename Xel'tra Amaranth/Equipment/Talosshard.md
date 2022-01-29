@@ -1,6 +1,7 @@
 # Talosshard
 
 * +3 to hit
+* Reach 10ft
 * `1d6 + 3 piercing + 1d6 lightning` damage
 * Thrown - 20/60 feet, returns to owner after thrown
 * On a critical hit, may add an extra 1d6 lightning
