@@ -1,5 +1,7 @@
 # The Furean Games
 
+[Full Rules](https://drive.google.com/file/d/1LizHz0r1tr-YDI8baUNNANc3YWLcoUWu/view?usp=sharing)
+
 Xel'tra is an engineer on her team and has a mending wrench. It has 4 repair charges which are represented by 4 gems embedded in it.
 
 * Using the [[Magnetic Suit]] in the games
