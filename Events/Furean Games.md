@@ -10,6 +10,9 @@ Xel'tra is an engineer on her team and has a mending wrench. It has 4 repair cha
   * Planning an ambush
   * Happening at the [[Battle of the Bards]]
 
+# Mad Hops Notes
+* Registrar is named Olive
+
 ## Updated Cart Stats
 ![](15.jpg)
 

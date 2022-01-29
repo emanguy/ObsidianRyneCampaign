@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Valero.md",
-            "mode": "preview",
+            "file": "Events/Furean Games.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Valero.md",
+                "file": "Events/Furean Games.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Valero.md"
+                "file": "Events/Furean Games.md"
               }
             }
           }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Valero.md",
+                "file": "Events/Furean Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,9 +184,9 @@
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Events/Furean Games.md",
     "Locations/Valero.md",
     "Xel'tra Amaranth/Backstory.md",
-    "Events/Furean Games.md",
     "Session Notes/2022-01-29.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2022-01-28.md",
