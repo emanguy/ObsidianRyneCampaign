@@ -13,5 +13,6 @@ Xel'tra is an engineer on her team and has a mending wrench. It has 4 repair cha
 ## Updated Cart Stats
 ![](15.jpg)
 
-## Paperwork
+## Paperwork/Related Documents
 * [Waivers and Forms](https://docs.google.com/document/d/1ckz_3uuKkqzzX7lhkYchI-Dl1j0CyJpEnjWLYysyWEA/edit)
+* [Opening Presentation](https://docs.google.com/presentation/d/1mplSW9L5xKuUGeaRDzqjF7o4BdTcvy0PvwwZwnuZk2M/edit?usp=sharing)
