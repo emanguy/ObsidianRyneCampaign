@@ -53,3 +53,4 @@
 ### From Equipment
 
 * [[Inventory Item Abilities]]
+  * Check recharges here!
