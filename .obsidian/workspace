@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
-            "mode": "preview",
+            "file": "Xel'tra Amaranth/Useful External Links.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
+                "file": "Xel'tra Amaranth/Useful External Links.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "file": "Xel'tra Amaranth/Useful External Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Useful External Links.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Raya.md",
     "Characters/NPCs/Sutek the Storm King.md",
@@ -140,7 +141,6 @@
     "Characters/Player Characters/Caden.md",
     "Characters/Player Characters/Lyra Beck.md",
     "Characters/Player Characters/Ripley.md",
-    "Characters/Player Characters/Vistra.md",
-    "Characters/Player Characters/Variel.md"
+    "Characters/Player Characters/Vistra.md"
   ]
 }
