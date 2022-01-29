@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+            "file": "Xel'tra Amaranth/Abilities.md",
             "mode": "preview",
             "source": false
           }
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +196,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87ea3cb391d6f39e",
+  "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities.md",
+    "Session Notes/2022-01-29.md",
+    "Characters/Player Characters/Drew.md",
     "Events/Furean Games.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
     "Useful External Links.md",
-    "Session Notes/2022-01-29.md",
     "Locations/Valero.md",
     "Xel'tra Amaranth/Backstory.md",
-    "Session Notes/2022-01-28.md",
-    "Characters/Player Characters/Vistra.md"
+    "Session Notes/2022-01-28.md"
   ]
 }
