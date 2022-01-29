@@ -9,10 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+            "file": "Xel'tra Amaranth/Abilities.md",
             "mode": "preview",
             "source": false
           }
+        }
+      },
+      {
+        "id": "2c5fc91e40c29799",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -33,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +64,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5979508465905305,
+                  "scale": 0.6674229051169736,
                   "close": true
                 }
               }
@@ -96,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 426
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -156,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,19 +179,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities.md",
+    "Characters/Player Characters/Moonbeam.md",
+    "Xel'tra Amaranth/Abilities/Martial Arts.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Reminders.md",
     "Session Notes/2021-12-04.md",
     "Session Notes/2021-11-30.md",
     "Session Notes/2022-01-28.md",
     "Events/Furean Games.md",
-    "Useful External Links.md",
-    "Organizations/The World Bank.md",
-    "Characters/NPCs/Raya.md",
-    "Characters/NPCs/Sutek the Storm King.md"
+    "Useful External Links.md"
   ]
 }
