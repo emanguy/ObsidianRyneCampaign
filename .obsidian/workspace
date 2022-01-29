@@ -7,8 +7,12 @@
         "id": "87ea3cb391d6f39e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Events/Furean Games.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -19,8 +23,51 @@
     "type": "split",
     "children": [
       {
+        "id": "cd2c7403f1d2cca4",
+        "type": "tabs",
+        "dimension": 25.867195242814667,
+        "children": [
+          {
+            "id": "0c6c302c96868adc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Events/Furean Games.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5979508465905305,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "bbaf7c1d42957022",
         "type": "tabs",
+        "dimension": 74.13280475718534,
         "children": [
           {
             "id": "408dced764d9d35c",
@@ -91,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Events/Furean Games.md"
+              }
             }
           }
         ]
@@ -107,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Events/Furean Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +175,15 @@
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
-    "Organizations/The World Bank.md",
-    "Reminders.md",
+    "Events/Furean Games.md",
     "Useful External Links.md",
+    "Reminders.md",
+    "Organizations/The World Bank.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Raya.md",
     "Characters/NPCs/Sutek the Storm King.md",
     "Characters/Player Characters/Moonbeam.md",
     "Characters/Player Characters/Orluna.md",
-    "Characters/Player Characters/Caden.md",
-    "Characters/Player Characters/Lyra Beck.md"
+    "Characters/Player Characters/Caden.md"
   ]
 }
