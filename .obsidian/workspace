@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Furean Games.md",
-            "mode": "source",
+            "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "cd2c7403f1d2cca4",
         "type": "tabs",
-        "dimension": 25.867195242814667,
+        "dimension": 33.10208126858276,
         "children": [
           {
             "id": "0c6c302c96868adc",
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,7 +67,7 @@
       {
         "id": "bbaf7c1d42957022",
         "type": "tabs",
-        "dimension": 74.13280475718534,
+        "dimension": 66.89791873141725,
         "children": [
           {
             "id": "408dced764d9d35c",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Furean Games.md"
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Furean Games.md",
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +175,15 @@
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Reminders.md",
+    "Session Notes/2021-12-04.md",
+    "Session Notes/2021-11-30.md",
+    "Session Notes/2022-01-28.md",
     "Events/Furean Games.md",
     "Useful External Links.md",
-    "Reminders.md",
     "Organizations/The World Bank.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Raya.md",
-    "Characters/NPCs/Sutek the Storm King.md",
-    "Characters/Player Characters/Moonbeam.md",
-    "Characters/Player Characters/Orluna.md",
-    "Characters/Player Characters/Caden.md"
+    "Characters/NPCs/Sutek the Storm King.md"
   ]
 }
