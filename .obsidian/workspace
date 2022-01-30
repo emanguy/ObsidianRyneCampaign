@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities.md",
-            "mode": "preview",
+            "file": "Session Notes/2022-01-30.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2022-01-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Session Notes/2022-01-30.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2022-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,15 +198,15 @@
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Session Notes/2022-01-30.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Income.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Weapons.md",
     "Characters/Player Characters/Rasha.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Events/Furean Games.md",
-    "Xel'tra Amaranth/Equipment/Chakram.md",
-    "Xel'tra Amaranth/Equipment/Soulrune Dagger.md",
-    "Characters/Player Characters/Lyra Beck.md",
-    "Characters/Player Characters/Drew.md"
+    "Events/Furean Games.md"
   ]
 }
