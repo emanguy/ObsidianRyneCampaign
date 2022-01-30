@@ -6,6 +6,7 @@
       {
         "id": "87ea3cb391d6f39e",
         "type": "leaf",
+        "dimension": 54.502688172043015,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "2637dff30d47fe3a",
         "type": "leaf",
+        "dimension": 45.497311827956985,
         "state": {
           "type": "markdown",
           "state": {
@@ -104,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wrench",
+                "query": "jump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -199,14 +200,14 @@
   "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
     "Xel'tra Amaranth/Abilities.md",
+    "Events/Furean Games.md",
+    "Xel'tra Amaranth/Abilities/Step of the Wind.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/Player Characters/Rasha.md",
     "Session Notes/2022-01-29.md",
     "Characters/Player Characters/Drew.md",
-    "Events/Furean Games.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
     "Useful External Links.md",
-    "Locations/Valero.md",
-    "Xel'tra Amaranth/Backstory.md"
+    "Locations/Valero.md"
   ]
 }
