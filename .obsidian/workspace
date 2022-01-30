@@ -115,12 +115,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -200,14 +200,14 @@
   "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
     "Xel'tra Amaranth/Abilities.md",
+    "Characters/Player Characters/Lyra Beck.md",
+    "Characters/Player Characters/Drew.md",
+    "Characters/Player Characters/Caden.md",
+    "Characters/Player Characters/Moonbeam.md",
+    "Characters/Player Characters/Orluna.md",
     "Events/Furean Games.md",
     "Xel'tra Amaranth/Abilities/Step of the Wind.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Characters/Player Characters/Rasha.md",
-    "Session Notes/2022-01-29.md",
-    "Characters/Player Characters/Drew.md",
-    "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
-    "Useful External Links.md",
-    "Locations/Valero.md"
+    "Characters/Player Characters/Rasha.md"
   ]
 }

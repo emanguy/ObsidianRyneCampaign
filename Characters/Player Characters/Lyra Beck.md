@@ -1,3 +1,3 @@
-# Lyrabeck
+# Lyra beck
 
 * Sarah's character
