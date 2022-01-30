@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/2022-01-30.md",
-            "mode": "source",
+            "file": "Xel'tra Amaranth/Abilities.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-01-30.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-01-30.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-01-30.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +198,8 @@
   },
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
-    "Session Notes/2022-01-30.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Session Notes/2022-01-30.md",
     "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Income.md",
