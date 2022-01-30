@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Events/Furean Games.md",
+            "file": "Xel'tra Amaranth/Abilities.md",
             "mode": "preview",
             "source": false
           }
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities.md",
+            "file": "Xel'tra Amaranth/Weapons.md",
             "mode": "preview",
             "source": false
           }
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Xel'tra Amaranth/Weapons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Xel'tra Amaranth/Weapons.md"
               }
             }
           }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Xel'tra Amaranth/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,15 +199,15 @@
   },
   "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Weapons.md",
+    "Characters/Player Characters/Rasha.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Characters/Player Characters/Lyra Beck.md",
-    "Characters/Player Characters/Drew.md",
-    "Characters/Player Characters/Caden.md",
-    "Characters/Player Characters/Moonbeam.md",
-    "Characters/Player Characters/Orluna.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Events/Furean Games.md",
-    "Xel'tra Amaranth/Abilities/Step of the Wind.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Characters/Player Characters/Rasha.md"
+    "Xel'tra Amaranth/Equipment/Chakram.md",
+    "Xel'tra Amaranth/Equipment/Soulrune Dagger.md",
+    "Characters/Player Characters/Lyra Beck.md",
+    "Characters/Player Characters/Drew.md"
   ]
 }
