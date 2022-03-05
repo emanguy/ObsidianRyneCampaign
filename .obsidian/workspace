@@ -16,21 +16,9 @@
         }
       },
       {
-        "id": "22b8c547cfb63d6a",
+        "id": "37746743cd2f634f",
         "type": "split",
         "children": [
-          {
-            "id": "23902f9f8aee3b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "849ac74c2f65d113",
             "type": "leaf",
@@ -39,6 +27,18 @@
               "state": {
                 "file": "Characters/NPCs/Lord Shrievus.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e05f14adca40a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -217,14 +218,14 @@
   "active": "849ac74c2f65d113",
   "lastOpenFiles": [
     "Characters/NPCs/Lord Shrievus.md",
+    "Xel'tra Amaranth/Backstory.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-03-05.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Reminders.md",
     "Xel'tra Amaranth/Untitled.md",
     "Events/Furean Games.md",
-    "Xel'tra Amaranth/Weapons.md",
-    "Session Notes/2022-01-30.md"
+    "Xel'tra Amaranth/Weapons.md"
   ]
 }
