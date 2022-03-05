@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "87ea3cb391d6f39e",
+        "id": "2637dff30d47fe3a",
         "type": "leaf",
-        "dimension": 54.502688172043015,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,17 +16,35 @@
         }
       },
       {
-        "id": "2637dff30d47fe3a",
-        "type": "leaf",
-        "dimension": 45.497311827956985,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
-            "mode": "preview",
-            "source": false
+        "id": "22b8c547cfb63d6a",
+        "type": "split",
+        "children": [
+          {
+            "id": "23902f9f8aee3b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "849ac74c2f65d113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Lord Shrievus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -47,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Characters/NPCs/Lord Shrievus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,14 +145,55 @@
       {
         "id": "0b9aa7886ae41f12",
         "type": "tabs",
-        "dimension": 35.97621407333994,
+        "dimension": 26.632428466617753,
         "children": [
           {
-            "id": "056190793fc5c606",
+            "id": "2bf5f6c46930c14c",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac3516d2911e55eb",
+        "type": "tabs",
+        "dimension": 21.423330887747614,
+        "children": [
+          {
+            "id": "9be9945220ab7fc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/NPCs/Lord Shrievus.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3fa7c5d3bad12e37",
+        "type": "tabs",
+        "dimension": 51.94424064563463,
+        "children": [
+          {
+            "id": "ab612326aaa31d91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/NPCs/Lord Shrievus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -150,63 +208,23 @@
             }
           }
         ]
-      },
-      {
-        "id": "ac3516d2911e55eb",
-        "type": "tabs",
-        "dimension": 28.93954410307235,
-        "children": [
-          {
-            "id": "9be9945220ab7fc4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3fa7c5d3bad12e37",
-        "type": "tabs",
-        "dimension": 35.08424182358771,
-        "children": [
-          {
-            "id": "ab612326aaa31d91",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "87ea3cb391d6f39e",
+  "active": "849ac74c2f65d113",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities.md",
+    "Characters/NPCs/Lord Shrievus.md",
+    "Session Notes/2022-03-05.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Reminders.md",
+    "Xel'tra Amaranth/Untitled.md",
     "Events/Furean Games.md",
     "Xel'tra Amaranth/Weapons.md",
-    "Session Notes/2022-01-30.md",
-    "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Income.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Characters/Player Characters/Rasha.md"
+    "Session Notes/2022-01-30.md"
   ]
 }
