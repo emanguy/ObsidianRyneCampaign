@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-03-05.md",
+                "file": "Characters/NPCs/Lord Shrievus.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-03-05.md",
+                "file": "Characters/NPCs/Lord Shrievus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-03-05.md"
+                "file": "Characters/NPCs/Lord Shrievus.md"
               }
             }
           }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-03-05.md",
+                "file": "Characters/NPCs/Lord Shrievus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,8 +216,8 @@
   },
   "active": "849ac74c2f65d113",
   "lastOpenFiles": [
-    "Session Notes/2022-03-05.md",
     "Characters/NPCs/Lord Shrievus.md",
+    "Session Notes/2022-03-05.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
