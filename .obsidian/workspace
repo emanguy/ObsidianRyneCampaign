@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities.md",
+            "file": "Useful External Links.md",
             "mode": "preview",
             "source": false
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,12 +132,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -218,14 +218,14 @@
   "active": "849ac74c2f65d113",
   "lastOpenFiles": [
     "Characters/NPCs/Lord Shrievus.md",
-    "Xel'tra Amaranth/Backstory.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Useful External Links.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Backstory.md",
     "Session Notes/2022-03-05.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Reminders.md",
     "Xel'tra Amaranth/Untitled.md",
-    "Events/Furean Games.md",
-    "Xel'tra Amaranth/Weapons.md"
+    "Events/Furean Games.md"
   ]
 }
