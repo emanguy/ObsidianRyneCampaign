@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful External Links.md",
+            "file": "Xel'tra Amaranth/Abilities.md",
             "mode": "preview",
             "source": false
           }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Lord Shrievus.md",
+                "file": "Session Notes/2022-05-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Useful External Links.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful External Links.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful External Links.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,15 +217,15 @@
   },
   "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
-    "Useful External Links.md",
-    "Characters/NPCs/Lord Shrievus.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Session Notes/2022-05-07.md",
+    "Characters/NPCs/Lord Shrievus.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Abilities/Ki.md",
+    "Useful External Links.md",
     "Xel'tra Amaranth/Backstory.md",
     "Session Notes/2022-03-05.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Reminders.md",
-    "Xel'tra Amaranth/Untitled.md",
-    "Events/Furean Games.md"
+    "Reminders.md"
   ]
 }
