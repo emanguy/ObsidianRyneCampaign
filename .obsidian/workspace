@@ -22,24 +22,24 @@
         "dimension": 64.45816956765862,
         "children": [
           {
-            "id": "849ac74c2f65d113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2022-05-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f7e6f6daa51997fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Locations/Ankhmar/Ka Amena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc2f2178659bee37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022-05-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,18 +53,6 @@
               "state": {
                 "file": "Characters/NPCs/Hara.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e05f14adca40a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-07.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -223,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,17 +240,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "849ac74c2f65d113",
+  "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-05-07.md",
+    "Characters/Player Characters/Vistra.md",
+    "Locations/Ankhmar/Ka Amena.md",
+    "Session Notes/Sheverith Giantsbane.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Characters/NPCs/Sutek the Storm King.md",
     "Characters/NPCs/Hara.md",
-    "Locations/Ankhmar/Ka Amena.md",
-    "Session Notes/2022-04-30.md",
-    "Characters/NPCs/Lord Shrievus.md",
-    "Characters/Player Characters/Ripley.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md"
+    "Session Notes/2022-04-30.md"
   ]
 }
