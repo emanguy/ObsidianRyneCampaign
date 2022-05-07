@@ -27,7 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-04-30.md",
+                "file": "Session Notes/2022-05-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7e6f6daa51997fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ankhmar/Ka Amena.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/NPCs/Hara.md",
+                "file": "Session Notes/2022-05-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Hara.md"
+                "file": "Session Notes/2022-05-07.md"
               }
             }
           }
@@ -211,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Hara.md",
+                "file": "Session Notes/2022-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,17 +252,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32b21284c25fcc87",
+  "active": "849ac74c2f65d113",
   "lastOpenFiles": [
+    "Session Notes/2022-05-07.md",
+    "Characters/NPCs/Sutek the Storm King.md",
     "Characters/NPCs/Hara.md",
+    "Locations/Ankhmar/Ka Amena.md",
     "Session Notes/2022-04-30.md",
+    "Characters/NPCs/Lord Shrievus.md",
+    "Characters/Player Characters/Ripley.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Session Notes/2022-05-07.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Characters/Player Characters/Vistra.md",
-    "Characters/NPCs/Lord Shrievus.md",
-    "Useful External Links.md"
+    "Xel'tra Amaranth/Inventory Item Abilities.md"
   ]
 }
