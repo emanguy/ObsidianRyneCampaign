@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/NPCs/Hara.md",
+                "file": "Session Notes/2022-04-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Hara.md"
+                "file": "Session Notes/2022-04-30.md"
               }
             }
           }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Hara.md",
+                "file": "Session Notes/2022-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,10 +239,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "32b21284c25fcc87",
+  "active": "bc2f2178659bee37",
   "lastOpenFiles": [
-    "Characters/NPCs/Hara.md",
     "Session Notes/2022-04-30.md",
+    "Characters/NPCs/Hara.md",
     "Session Notes/2022-05-07.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
