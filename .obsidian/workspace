@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Xel'tra Amaranth/Abilities/Ki.md"
               }
             }
           }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,20 +237,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2637dff30d47fe3a",
+  "active": "6740937545530324",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Abilities/Ki.md",
     "Session Notes/2022-05-07.md",
-    "Characters/Player Characters/Vistra.md",
+    "Session Notes/2022-04-30.md",
     "Locations/Ankhmar/Ka Amena.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Characters/NPCs/Hara.md",
+    "Characters/Player Characters/Vistra.md",
     "Session Notes/Sheverith Giantsbane.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Characters/NPCs/Sutek the Storm King.md",
-    "Characters/NPCs/Hara.md",
-    "Session Notes/2022-04-30.md"
+    "Xel'tra Amaranth/Inventory Item Abilities.md"
   ]
 }
