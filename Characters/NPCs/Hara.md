@@ -1,3 +1,4 @@
 # Hara
 
-* Ex-priestess of [[Sune]]
+* Ex-priestess of [[Sune]] in [[Ahn’Qiraj]]
+* 
