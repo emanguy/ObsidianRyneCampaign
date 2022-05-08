@@ -6,7 +6,7 @@
       {
         "id": "2637dff30d47fe3a",
         "type": "leaf",
-        "dimension": 35.541830432341385,
+        "dimension": 21.611471491976786,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "37746743cd2f634f",
         "type": "split",
-        "dimension": 64.45816956765862,
+        "dimension": 78.38852850802321,
         "children": [
           {
             "id": "bc2f2178659bee37",
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Locations/Ankhmar/Ka Amena.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Chev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +167,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Locations/Ankhmar/Ka Amena.md"
               }
             }
           }
@@ -221,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Locations/Ankhmar/Ka Amena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,17 +248,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2637dff30d47fe3a",
+  "active": "063e35a3449054c5",
   "lastOpenFiles": [
+    "Locations/Ankhmar/Ka Amena.md",
     "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-05-07.md",
-    "Locations/Ankhmar/Ka Amena.md",
+    "Characters/NPCs/Shevarith Giantsbane.md",
     "Session Notes/2022-04-30.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Hara.md",
-    "Characters/Player Characters/Vistra.md",
-    "Session Notes/Sheverith Giantsbane.md"
+    "Characters/Player Characters/Vistra.md"
   ]
 }
