@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "063e35a3449054c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ankhmar/Ka Amena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "744a5aced192ba93",
             "type": "split",
             "children": [
@@ -87,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Locations/Ankhmar/Ka Amena.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-07.md"
+                "file": "Locations/Ankhmar/Ka Amena.md"
               }
             }
           }
@@ -209,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Locations/Ankhmar/Ka Amena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,15 +249,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bc2f2178659bee37",
+  "active": "063e35a3449054c5",
   "lastOpenFiles": [
+    "Locations/Ankhmar/Ka Amena.md",
     "Session Notes/2022-05-07.md",
     "Session Notes/2022-04-30.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Locations/Ankhmar/Ka Amena.md",
     "Characters/NPCs/Hara.md",
     "Characters/Player Characters/Vistra.md",
     "Session Notes/Sheverith Giantsbane.md"
