@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-07.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,12 +249,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bc2f2178659bee37",
+  "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-05-07.md",
     "Locations/Ankhmar/Ka Amena.md",
     "Session Notes/2022-04-30.md",
-    "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
