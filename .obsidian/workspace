@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Ankhmar/Ka Amena.md",
+                "file": "Session Notes/2022-05-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ankhmar/Ka Amena.md"
+                "file": "Session Notes/2022-05-07.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ankhmar/Ka Amena.md",
+                "file": "Session Notes/2022-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,10 +248,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "063e35a3449054c5",
+  "active": "bc2f2178659bee37",
   "lastOpenFiles": [
-    "Locations/Ankhmar/Ka Amena.md",
     "Session Notes/2022-05-07.md",
+    "Locations/Ankhmar/Ka Amena.md",
     "Xel'tra Amaranth/Abilities.md",
     "Characters/NPCs/Shevarith Giantsbane.md",
     "Session Notes/2022-04-30.md",
