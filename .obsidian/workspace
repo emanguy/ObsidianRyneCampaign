@@ -6,7 +6,7 @@
       {
         "id": "2637dff30d47fe3a",
         "type": "leaf",
-        "dimension": 21.611471491976786,
+        "dimension": 24.577987846049968,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "37746743cd2f634f",
         "type": "split",
-        "dimension": 78.38852850802321,
+        "dimension": 75.42201215395004,
         "children": [
           {
             "id": "bc2f2178659bee37",
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2022-05-07.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -251,8 +251,8 @@
   "active": "063e35a3449054c5",
   "lastOpenFiles": [
     "Locations/Ankhmar/Ka Amena.md",
-    "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-05-07.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Characters/NPCs/Shevarith Giantsbane.md",
     "Session Notes/2022-04-30.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
