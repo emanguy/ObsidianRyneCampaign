@@ -19,11 +19,24 @@
       {
         "id": "2637dff30d47fe3a",
         "type": "leaf",
-        "dimension": 45.497311827956985,
+        "dimension": 22.748655913978492,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Xel'tra Amaranth/Abilities/Ki.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1dade0789dfc8178",
+        "type": "leaf",
+        "dimension": 22.748655913978492,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "preview",
             "source": false
           }
@@ -47,7 +60,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +209,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2637dff30d47fe3a",
+  "active": "1dade0789dfc8178",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Abilities.md",
@@ -206,7 +220,6 @@
     "Session Notes/2022-01-30.md",
     "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Income.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md"
+    "Xel'tra Amaranth/Income.md"
   ]
 }
