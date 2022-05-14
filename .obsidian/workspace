@@ -6,7 +6,7 @@
       {
         "id": "87ea3cb391d6f39e",
         "type": "leaf",
-        "dimension": 54.502688172043015,
+        "dimension": 40.95238095238095,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "2637dff30d47fe3a",
         "type": "leaf",
-        "dimension": 22.748655913978492,
+        "dimension": 34.11255411255411,
         "state": {
           "type": "markdown",
           "state": {
@@ -32,11 +32,11 @@
       {
         "id": "1dade0789dfc8178",
         "type": "leaf",
-        "dimension": 22.748655913978492,
+        "dimension": 24.935064935064936,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Xel'tra Amaranth/Weapons.md",
             "mode": "preview",
             "source": false
           }
@@ -60,7 +60,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Xel'tra Amaranth/Abilities/Ki.md"
               }
             }
           }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,14 +209,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1dade0789dfc8178",
+  "active": "2637dff30d47fe3a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
-    "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Events/Furean Games.md",
     "Xel'tra Amaranth/Weapons.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "conflict-files-obsidian-git.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
+    "Events/Furean Games.md",
     "Session Notes/2022-01-30.md",
     "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",

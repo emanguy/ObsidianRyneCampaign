@@ -2,7 +2,7 @@
 
 * Ki is regained after a short or long rest.
 * Ki abilities' save DC is `8 + Proficiency + Wisdom`
-* At current level, we have **7** Ki points.
+* At current level, we have **8** Ki points.
 
 ## Ki Abilities
 
