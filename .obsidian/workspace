@@ -62,11 +62,24 @@
               {
                 "id": "3fa10b37d295a56f",
                 "type": "leaf",
-                "dimension": 42.09702660406886,
+                "dimension": 21.04851330203443,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Session Notes/2022-05-28.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "25a3b82742ddfcf7",
+                "type": "leaf",
+                "dimension": 21.04851330203443,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Player Characters/Caden.md",
                     "mode": "source",
                     "source": false
                   }
@@ -109,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-28.md",
+                "file": "Characters/Player Characters/Caden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-28.md"
+                "file": "Characters/Player Characters/Caden.md"
               }
             }
           }
@@ -242,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-28.md",
+                "file": "Characters/Player Characters/Caden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,8 +273,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fa10b37d295a56f",
+  "active": "25a3b82742ddfcf7",
   "lastOpenFiles": [
+    "Characters/Player Characters/Caden.md",
     "Session Notes/2022-05-28.md",
     "Characters/Player Characters/Ripley.md",
     "Characters/The Party.md",
@@ -270,7 +284,6 @@
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-05-07.md",
-    "Session Notes/2022-04-30.md",
-    "Session Notes/2021-12-04.md"
+    "Session Notes/2022-04-30.md"
   ]
 }
