@@ -4,16 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "87ea3cb391d6f39e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Xel'tra Amaranth/Abilities.md",
-            "mode": "preview",
-            "source": false
+        "id": "adf17a085270290f",
+        "type": "split",
+        "children": [
+          {
+            "id": "87ea3cb391d6f39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xel'tra Amaranth/Abilities.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3052a774ed41de4",
+            "type": "split",
+            "children": [
+              {
+                "id": "3fa10b37d295a56f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/2022-05-28.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3fb89fbfdacd3b02",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/2022-05-07.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -33,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2022-05-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Session Notes/2022-05-07.md"
               }
             }
           }
@@ -165,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2022-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,8 +220,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87ea3cb391d6f39e",
+  "active": "3fb89fbfdacd3b02",
   "lastOpenFiles": [
+    "Session Notes/2022-05-07.md",
+    "Session Notes/2022-05-28.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
@@ -191,8 +231,6 @@
     "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Events/Furean Games.md",
     "Session Notes/2022-01-30.md",
-    "Xel'tra Amaranth/Equipment/Magnetic Suit.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Income.md"
+    "Xel'tra Amaranth/Equipment/Magnetic Suit.md"
   ]
 }
