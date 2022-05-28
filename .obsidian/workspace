@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-28.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pitfal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-28.md"
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md"
               }
             }
           }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-28.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,15 +260,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fa10b37d295a56f",
+  "active": "19ee8871879e19d9",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Session Notes/2022-05-07.md",
     "Session Notes/2022-05-28.md",
     "Locations/Ankhmar/Ka Amena.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/Player Characters/Caden.md",
     "Characters/NPCs/Noctra.md",
-    "Session Notes/2022-05-07.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Characters/Player Characters/Ripley.md",
     "Characters/The Party.md",
     "Characters/Player Characters/Orluna.md"
