@@ -28,7 +28,7 @@
               {
                 "id": "19ee8871879e19d9",
                 "type": "leaf",
-                "dimension": 27.94846382556987,
+                "dimension": 43.6870642912471,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -41,11 +41,11 @@
               {
                 "id": "ff29d04e0a0bcbd6",
                 "type": "leaf",
-                "dimension": 72.05153617443013,
+                "dimension": 56.31293570875291,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                    "file": "Session Notes/2022-01-29.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                "file": "Session Notes/2022-01-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "recharge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md"
+                "file": "Session Notes/2022-01-29.md"
               }
             }
           }
@@ -242,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                "file": "Session Notes/2022-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,17 +259,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19ee8871879e19d9",
+  "active": "ff29d04e0a0bcbd6",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Session Notes/2022-01-29.md",
+    "Session Notes/2022-01-30.md",
+    "Session Notes/2022-01-28.md",
+    "Session Notes/2021-12-04.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Xel'tra Amaranth/Abilities/Xzar's Whistle.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Session Notes/2022-05-28.md",
-    "Session Notes/2022-05-07.md",
-    "Locations/Ankhmar/Ka Amena.md",
-    "Characters/Player Characters/Caden.md",
-    "Characters/NPCs/Noctra.md",
-    "Characters/Player Characters/Ripley.md"
+    "Xel'tra Amaranth/Equipment/Chakram.md",
+    "Xel'tra Amaranth/Weapons.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Abilities/Xzar's Whistle.md"
   ]
 }
