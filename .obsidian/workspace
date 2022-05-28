@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                    "file": "Xel'tra Amaranth/Weapons.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-01-29.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bbaf7c1d42957022",
@@ -168,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recharge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-01-29.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -241,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-01-29.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,17 +258,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff29d04e0a0bcbd6",
+  "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities.md",
+    "Session Notes/2022-05-28.md",
+    "Xel'tra Amaranth/Weapons.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Session Notes/2022-01-29.md",
+    "Session Notes/2022-05-07.md",
     "Session Notes/2022-01-30.md",
     "Session Notes/2022-01-28.md",
-    "Session Notes/2021-12-04.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Xel'tra Amaranth/Equipment/Chakram.md",
-    "Xel'tra Amaranth/Weapons.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Abilities/Xzar's Whistle.md"
+    "Session Notes/2021-12-04.md"
   ]
 }
