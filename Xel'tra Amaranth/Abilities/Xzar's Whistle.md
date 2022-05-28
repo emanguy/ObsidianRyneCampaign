@@ -1,0 +1,3 @@
+# Xzar's Whistle
+
+A whistle carved from ivory and enchanted with necromantic magic. A creature attuned to this whistle can, once per day, blow the whistle, summoning `1d6` (minumum of 2) undead from the ground as a bonus action. The undead use the `Skeleton` stat block from the Monster Manual. The skeletons serve you and follow your verbal commands, and cannot be charmed or controlled by other magic.
