@@ -41,8 +41,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/2022-05-07.md",
-                    "mode": "preview",
+                    "file": "Session Notes/2021-12-04.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Session Notes/2021-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-07.md"
+                "file": "Session Notes/2021-12-04.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Session Notes/2021-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,15 +222,15 @@
   },
   "active": "3fb89fbfdacd3b02",
   "lastOpenFiles": [
-    "Session Notes/2022-05-07.md",
+    "Session Notes/2021-12-04.md",
+    "Session Notes/2021-11-30.md",
+    "Characters/NPCs/Vallant Tombwalker.md",
     "Session Notes/2022-05-28.md",
+    "Session Notes/2022-05-07.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "conflict-files-obsidian-git.md",
-    "Xel'tra Amaranth/Equipment/Talosshard.md",
-    "Events/Furean Games.md",
-    "Session Notes/2022-01-30.md",
-    "Xel'tra Amaranth/Equipment/Magnetic Suit.md"
+    "Xel'tra Amaranth/Equipment/Talosshard.md"
   ]
 }
