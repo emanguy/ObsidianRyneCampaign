@@ -257,19 +257,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
     "Session Notes/2022-05-28.md",
+    "Characters/Player Characters/Ripley.md",
+    "Characters/The Party.md",
     "Characters/Player Characters/Orluna.md",
     "Characters/NPCs/Vallant Tombwalker.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-05-07.md",
     "Session Notes/2022-04-30.md",
-    "Session Notes/2021-12-04.md",
-    "Session Notes/2021-11-30.md",
-    "Xel'tra Amaranth/Weapons.md"
+    "Session Notes/2021-12-04.md"
   ]
 }
