@@ -10,6 +10,7 @@
           {
             "id": "87ea3cb391d6f39e",
             "type": "leaf",
+            "dimension": 23.54586129753915,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,25 +21,48 @@
             }
           },
           {
-            "id": "19ee8871879e19d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
-                "mode": "preview",
-                "source": false
+            "id": "f579d432127ff36f",
+            "type": "split",
+            "dimension": 45.74944071588367,
+            "children": [
+              {
+                "id": "19ee8871879e19d9",
+                "type": "leaf",
+                "dimension": 33.99405351833499,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3fb89fbfdacd3b02",
+                "type": "leaf",
+                "dimension": 66.005946481665,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/NPCs/Vallant Tombwalker.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "direction": "horizontal"
           },
           {
             "id": "94cd9049fc6a6065",
             "type": "split",
+            "dimension": 30.70469798657718,
             "children": [
               {
                 "id": "3fa10b37d295a56f",
                 "type": "leaf",
-                "dimension": 26.660059464816648,
+                "dimension": 42.09702660406886,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -49,13 +73,13 @@
                 }
               },
               {
-                "id": "3fb89fbfdacd3b02",
+                "id": "28a916b82a523287",
                 "type": "leaf",
-                "dimension": 73.33994053518335,
+                "dimension": 57.90297339593114,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Characters/NPCs/Vallant Tombwalker.md",
+                    "file": "Session Notes/2022-05-07.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -85,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                "file": "Session Notes/2022-05-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -200,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md"
+                "file": "Session Notes/2022-05-28.md"
               }
             }
           }
@@ -217,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                "file": "Session Notes/2022-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,20 +257,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "19ee8871879e19d9",
+  "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
+    "Session Notes/2022-05-28.md",
+    "Characters/Player Characters/Orluna.md",
+    "Characters/NPCs/Vallant Tombwalker.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Session Notes/2022-05-28.md",
-    "Characters/NPCs/Vallant Tombwalker.md",
     "Session Notes/2022-05-07.md",
     "Session Notes/2022-04-30.md",
     "Session Notes/2021-12-04.md",
     "Session Notes/2021-11-30.md",
-    "Xel'tra Amaranth/Weapons.md",
-    "Xel'tra Amaranth/Abilities/Ki.md"
+    "Xel'tra Amaranth/Weapons.md"
   ]
 }
