@@ -7,3 +7,4 @@ If my items give me abilities, I will list them here.
 * [[Trader's Ring]]
 * [[Leader's Helm]]
   * [ ] Call to Arms Available
+* 
