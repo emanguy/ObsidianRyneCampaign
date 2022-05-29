@@ -10,7 +10,7 @@
           {
             "id": "87ea3cb391d6f39e",
             "type": "leaf",
-            "dimension": 23.657718120805367,
+            "dimension": 23.88143176733781,
             "state": {
               "type": "markdown",
               "state": {
@@ -23,29 +23,29 @@
           {
             "id": "eaedf96834fd81fe",
             "type": "split",
-            "dimension": 26.845637583892618,
+            "dimension": 29.809843400447427,
             "children": [
               {
-                "id": "19ee8871879e19d9",
+                "id": "62770885deeb78b7",
                 "type": "leaf",
-                "dimension": 43.6870642912471,
+                "dimension": 50,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Xel'tra Amaranth/Weapons.md",
+                    "file": "Xel'tra Amaranth/Abilities/Ki.md",
                     "mode": "preview",
                     "source": false
                   }
                 }
               },
               {
-                "id": "ff29d04e0a0bcbd6",
+                "id": "19ee8871879e19d9",
                 "type": "leaf",
-                "dimension": 56.31293570875291,
+                "dimension": 50,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/2022-01-29.md",
+                    "file": "Xel'tra Amaranth/Weapons.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -57,7 +57,7 @@
           {
             "id": "94cd9049fc6a6065",
             "type": "split",
-            "dimension": 49.49664429530201,
+            "dimension": 46.308724832214764,
             "children": [
               {
                 "id": "3fa10b37d295a56f",
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bbaf7c1d42957022",
@@ -167,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "saving",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +177,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,14 +263,14 @@
   "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
     "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Abilities/Evasion.md",
+    "Xel'tra Amaranth/Abilities/Ki.md",
     "Session Notes/2022-05-28.md",
+    "Session Notes/2022-05-07.md",
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Session Notes/2022-01-29.md",
-    "Session Notes/2022-05-07.md",
-    "Session Notes/2022-01-30.md",
-    "Session Notes/2022-01-28.md",
-    "Session Notes/2021-12-04.md"
+    "Session Notes/2022-01-30.md"
   ]
 }
