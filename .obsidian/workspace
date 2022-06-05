@@ -22,52 +22,33 @@
         "dimension": 75.42201215395004,
         "children": [
           {
-            "id": "b907cd4489aa19cb",
+            "id": "2e46d2f0edef34d8",
             "type": "split",
-            "dimension": 68.47110460863203,
+            "dimension": 65.76444769568398,
             "children": [
               {
-                "id": "bc2f2178659bee37",
+                "id": "decd80b4fd0bccf4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/2022-04-30.md",
+                    "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
                     "mode": "preview",
                     "source": false
                   }
                 }
               },
               {
-                "id": "16e7517b24cfee97",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "59bba9cb53678368",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Session Notes/2022-06-05.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "decd80b4fd0bccf4",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
-                        "mode": "preview",
-                        "source": false
-                      }
-                    }
+                "id": "59bba9cb53678368",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/2022-06-05.md",
+                    "mode": "source",
+                    "source": false
                   }
-                ],
-                "direction": "horizontal"
+                }
               }
             ],
             "direction": "vertical"
@@ -75,7 +56,7 @@
           {
             "id": "472297ca671af4b9",
             "type": "split",
-            "dimension": 31.52889539136796,
+            "dimension": 34.235552304316016,
             "children": [
               {
                 "id": "6740937545530324",
@@ -125,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                "file": "Session Notes/2022-06-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pitfall",
+                "query": "crit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +174,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md"
+                "file": "Session Notes/2022-06-05.md"
               }
             }
           }
@@ -246,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                "file": "Session Notes/2022-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,17 +257,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6740937545530324",
+  "active": "59bba9cb53678368",
   "lastOpenFiles": [
+    "Session Notes/2022-06-05.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Session Notes/2022-06-05.md",
-    "Reminders.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Weapons.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Session Notes/2022-04-30.md",
-    "Session Notes/2022-05-07.md",
-    "Locations/Ankhmar/Ka Amena.md",
-    "Characters/NPCs/Vallant Tombwalker.md",
-    "Session Notes/2022-05-28.md"
+    "Reminders.md",
+    "Session Notes/2022-05-07.md"
   ]
 }
