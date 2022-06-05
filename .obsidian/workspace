@@ -24,6 +24,7 @@
           {
             "id": "b907cd4489aa19cb",
             "type": "split",
+            "dimension": 58.08339429407462,
             "children": [
               {
                 "id": "bc2f2178659bee37",
@@ -43,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Reminders.md",
+                    "file": "Session Notes/2022-06-05.md",
                     "mode": "source",
                     "source": false
                   }
@@ -55,6 +56,7 @@
           {
             "id": "744a5aced192ba93",
             "type": "split",
+            "dimension": 41.916605705925384,
             "children": [
               {
                 "id": "32b21284c25fcc87",
@@ -98,7 +100,7 @@
       {
         "id": "cd2c7403f1d2cca4",
         "type": "tabs",
-        "dimension": 33.10208126858276,
+        "dimension": 16.67885881492319,
         "children": [
           {
             "id": "0c6c302c96868adc",
@@ -106,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reminders.md",
+                "file": "Session Notes/2022-06-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,12 +145,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bbaf7c1d42957022",
         "type": "tabs",
-        "dimension": 66.89791873141725,
+        "dimension": 83.32114118507681,
         "children": [
           {
             "id": "408dced764d9d35c",
@@ -209,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reminders.md"
+                "file": "Session Notes/2022-06-05.md"
               }
             }
           }
@@ -226,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reminders.md",
+                "file": "Session Notes/2022-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,15 +259,15 @@
   },
   "active": "59bba9cb53678368",
   "lastOpenFiles": [
-    "Reminders.md",
     "Session Notes/2022-06-05.md",
+    "Locations/Ankhmar/Ankhmar.md",
+    "Locations/Ankhmar/Anasi.md",
+    "Locations/Overview.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Reminders.md",
     "conflict-files-obsidian-git.md",
     "Session Notes/2022-05-28.md",
-    "Session Notes/2022-05-07.md",
-    "Locations/Ankhmar/Ka Amena.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "Session Notes/2022-04-30.md"
+    "Session Notes/2022-05-07.md"
   ]
 }
