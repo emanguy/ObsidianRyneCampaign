@@ -24,7 +24,7 @@
           {
             "id": "b907cd4489aa19cb",
             "type": "split",
-            "dimension": 58.08339429407462,
+            "dimension": 68.47110460863203,
             "children": [
               {
                 "id": "bc2f2178659bee37",
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/2022-05-28.md",
+                    "file": "Session Notes/2022-04-30.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -49,7 +49,7 @@
                       "type": "markdown",
                       "state": {
                         "file": "Session Notes/2022-06-05.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": false
                       }
                     }
@@ -73,31 +73,29 @@
             "direction": "vertical"
           },
           {
-            "id": "744a5aced192ba93",
+            "id": "472297ca671af4b9",
             "type": "split",
-            "dimension": 41.916605705925384,
+            "dimension": 31.52889539136796,
             "children": [
               {
-                "id": "32b21284c25fcc87",
+                "id": "6740937545530324",
                 "type": "leaf",
-                "dimension": 58.20433436532508,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                    "file": "Xel'tra Amaranth/Abilities/Ki.md",
                     "mode": "preview",
                     "source": false
                   }
                 }
               },
               {
-                "id": "6740937545530324",
+                "id": "32b21284c25fcc87",
                 "type": "leaf",
-                "dimension": 41.795665634674926,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                    "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -186,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Chev",
+                "query": "pitfall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,14 +277,14 @@
   "active": "59bba9cb53678368",
   "lastOpenFiles": [
     "Session Notes/2022-06-05.md",
+    "Session Notes/2022-04-30.md",
+    "Session Notes/2022-05-07.md",
+    "Locations/Ankhmar/Ka Amena.md",
+    "Characters/NPCs/Vallant Tombwalker.md",
+    "Session Notes/2022-05-28.md",
     "Locations/Ankhmar/Anasi.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Session Notes/2022-05-28.md",
     "Locations/Ankhmar/Ankhmar.md",
-    "Locations/Overview.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Reminders.md",
-    "conflict-files-obsidian-git.md",
-    "Session Notes/2022-05-07.md"
+    "Locations/Overview.md"
   ]
 }
