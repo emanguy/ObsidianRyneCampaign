@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Session Notes/2022-05-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Session Notes/2022-05-07.md"
               }
             }
           }
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Session Notes/2022-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,14 +260,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5964c3767796ab71",
+  "active": "bc2f2178659bee37",
   "lastOpenFiles": [
+    "Session Notes/2022-05-07.md",
+    "Locations/Ankhmar/Ka Amena.md",
     "conflict-files-obsidian-git.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities.md",
-    "Session Notes/2022-05-07.md",
-    "Locations/Ankhmar/Ka Amena.md",
     "Session Notes/2022-04-30.md",
     "obsidian_data/Assets/15.jpg",
     "obsidian_data/Assets/image1.png",
