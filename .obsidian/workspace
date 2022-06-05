@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-06-05.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-06-05.md"
+                "file": "Xel'tra Amaranth/Abilities/Ki.md"
               }
             }
           }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-06-05.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,17 +275,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59bba9cb53678368",
+  "active": "6740937545530324",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities/Ki.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-06-05.md",
     "Reminders.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2022-04-30.md",
     "Session Notes/2022-05-07.md",
     "Locations/Ankhmar/Ka Amena.md",
     "Characters/NPCs/Vallant Tombwalker.md",
-    "Session Notes/2022-05-28.md",
-    "Locations/Ankhmar/Anasi.md"
+    "Session Notes/2022-05-28.md"
   ]
 }
