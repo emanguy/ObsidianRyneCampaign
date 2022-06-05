@@ -272,19 +272,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "59bba9cb53678368",
   "lastOpenFiles": [
     "Session Notes/2022-06-05.md",
+    "Reminders.md",
+    "Xel'tra Amaranth/Abilities/Ki.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2022-04-30.md",
     "Session Notes/2022-05-07.md",
     "Locations/Ankhmar/Ka Amena.md",
     "Characters/NPCs/Vallant Tombwalker.md",
     "Session Notes/2022-05-28.md",
-    "Locations/Ankhmar/Anasi.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Locations/Ankhmar/Ankhmar.md",
-    "Locations/Overview.md"
+    "Locations/Ankhmar/Anasi.md"
   ]
 }
