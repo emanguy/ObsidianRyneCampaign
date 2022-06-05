@@ -39,16 +39,35 @@
                 }
               },
               {
-                "id": "59bba9cb53678368",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/2022-06-05.md",
-                    "mode": "source",
-                    "source": false
+                "id": "16e7517b24cfee97",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "59bba9cb53678368",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Session Notes/2022-06-05.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "decd80b4fd0bccf4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "direction": "horizontal"
               }
             ],
             "direction": "vertical"
@@ -260,14 +279,14 @@
   "active": "59bba9cb53678368",
   "lastOpenFiles": [
     "Session Notes/2022-06-05.md",
-    "Locations/Ankhmar/Ankhmar.md",
     "Locations/Ankhmar/Anasi.md",
-    "Locations/Overview.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Session Notes/2022-05-28.md",
+    "Locations/Ankhmar/Ankhmar.md",
+    "Locations/Overview.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Reminders.md",
     "conflict-files-obsidian-git.md",
-    "Session Notes/2022-05-28.md",
     "Session Notes/2022-05-07.md"
   ]
 }
