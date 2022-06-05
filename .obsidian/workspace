@@ -45,7 +45,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Session Notes/2022-06-05.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crit",
+                "query": "guild",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,14 +260,14 @@
   "active": "59bba9cb53678368",
   "lastOpenFiles": [
     "Session Notes/2022-06-05.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Characters/Player Characters/Ripley.md",
-    "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Locations/Ankhmar/The Sphinx.md",
     "Xel'tra Amaranth/Weapons.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Session Notes/2022-04-30.md",
-    "Reminders.md"
+    "Organizations/The World Bank.md",
+    "Characters/Player Characters/Ripley.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md"
   ]
 }
