@@ -65,11 +65,24 @@
               {
                 "id": "6740937545530324",
                 "type": "leaf",
-                "dimension": 58.95196506550219,
+                "dimension": 29.475982532751097,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5964c3767796ab71",
+                "type": "leaf",
+                "dimension": 29.475982532751097,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -99,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,8 +260,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6740937545530324",
+  "active": "5964c3767796ab71",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Abilities.md",
@@ -257,7 +271,6 @@
     "Session Notes/2022-04-30.md",
     "obsidian_data/Assets/15.jpg",
     "obsidian_data/Assets/image1.png",
-    "Characters/NPCs/Shevarith Giantsbane.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md"
+    "Characters/NPCs/Shevarith Giantsbane.md"
   ]
 }
