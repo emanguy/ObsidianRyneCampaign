@@ -65,7 +65,7 @@
               {
                 "id": "6740937545530324",
                 "type": "leaf",
-                "dimension": 58.951965065502186,
+                "dimension": 58.95196506550219,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +122,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6674229051169736,
+                  "scale": 0.6674229051169732,
                   "close": true
                 }
               }
@@ -136,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bbaf7c1d42957022",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-07.md"
+                "file": "Xel'tra Amaranth/Abilities/Ki.md"
               }
             }
           }
@@ -220,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-07.md",
+                "file": "Xel'tra Amaranth/Abilities/Ki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,17 +247,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bc2f2178659bee37",
+  "active": "6740937545530324",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities/Ki.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2022-05-07.md",
-    "Session Notes/2022-04-30.md",
     "Locations/Ankhmar/Ka Amena.md",
+    "Session Notes/2022-04-30.md",
     "obsidian_data/Assets/15.jpg",
     "obsidian_data/Assets/image1.png",
-    "Xel'tra Amaranth/Abilities.md",
     "Characters/NPCs/Shevarith Giantsbane.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md"
   ]
 }
