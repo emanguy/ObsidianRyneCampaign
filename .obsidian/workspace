@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -220,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,8 +239,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fa10b37d295a56f",
+  "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Abilities.md",
     "Locations/Ankhmar/Anasi.md",
     "Locations/Ankhmar/Ankhmar.md",
     "Locations/Overview.md",
@@ -248,7 +250,6 @@
     "Characters/The Party.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Weapons.md",
-    "Session Notes/2022-06-05.md",
-    "Session Notes/2022-05-28.md"
+    "Session Notes/2022-06-05.md"
   ]
 }

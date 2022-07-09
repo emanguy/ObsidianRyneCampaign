@@ -11,7 +11,7 @@
   * [ ] The arena
   * [ ] Kraken's keep
   * [ ] Remora's fishing shop
-  * [ ] Bards and nobles
+  * [x] Bards and nobles
   * [ ] Arcane scrollworks
   * [ ] Stable
 
