@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Ankhmar/Anasi.md",
+                    "file": "Locations/Ankhmar/Ankhmar.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md",
+                "file": "Session Notes/2022-07-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md"
+                "file": "Session Notes/2022-07-09.md"
               }
             }
           }
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md",
+                "file": "Session Notes/2022-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,19 +236,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "19ee8871879e19d9",
+  "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
-    "Locations/Ankhmar/Anasi.md",
-    "Locations/Ankhmar/Ankhmar.md",
-    "Xel'tra Amaranth/Weapons.md",
     "Session Notes/2022-07-09.md",
+    "Characters/The Party.md",
+    "Xel'tra Amaranth/Abilities/Ki.md",
+    "Locations/Ankhmar/Ankhmar.md",
+    "Locations/Ankhmar/Anasi.md",
+    "Locations/Overview.md",
+    "Xel'tra Amaranth/Weapons.md",
     "Session Notes/2022-06-05.md",
     "Session Notes/2022-05-28.md",
-    "Xel'tra Amaranth/Abilities.md",
-    "conflict-files-obsidian-git.md",
-    "Xel'tra Amaranth/Abilities/Evasion.md",
-    "Xel'tra Amaranth/Abilities/Ki.md"
+    "Xel'tra Amaranth/Abilities.md"
   ]
 }
