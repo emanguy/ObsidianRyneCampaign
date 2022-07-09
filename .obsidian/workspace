@@ -57,11 +57,24 @@
           {
             "id": "3fa10b37d295a56f",
             "type": "leaf",
-            "dimension": 46.308724832214764,
+            "dimension": 23.154362416107382,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2022-05-28.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2476b895f588622",
+            "type": "leaf",
+            "dimension": 23.154362416107382,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-05-28.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-05-28.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -221,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-05-28.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,8 +252,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fa10b37d295a56f",
+  "active": "a2476b895f588622",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Session Notes/2022-05-28.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Abilities/Evasion.md",
@@ -249,7 +263,6 @@
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Session Notes/2022-01-29.md",
-    "Session Notes/2022-01-30.md"
+    "Session Notes/2022-01-29.md"
   ]
 }
