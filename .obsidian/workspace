@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022-07-09.md",
-                "mode": "source",
+                "file": "Locations/Ankhmar/Anasi.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-07-09.md",
+                "file": "Locations/Ankhmar/Anasi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-07-09.md"
+                "file": "Locations/Ankhmar/Anasi.md"
               }
             }
           }
@@ -221,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-07-09.md",
+                "file": "Locations/Ankhmar/Anasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,15 +240,15 @@
   },
   "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
+    "Locations/Ankhmar/Anasi.md",
+    "Locations/Ankhmar/Ankhmar.md",
+    "Locations/Overview.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2022-07-09.md",
     "Characters/The Party.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
-    "Locations/Ankhmar/Ankhmar.md",
-    "Locations/Ankhmar/Anasi.md",
-    "Locations/Overview.md",
     "Xel'tra Amaranth/Weapons.md",
     "Session Notes/2022-06-05.md",
-    "Session Notes/2022-05-28.md",
-    "Xel'tra Amaranth/Abilities.md"
+    "Session Notes/2022-05-28.md"
   ]
 }

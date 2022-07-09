@@ -7,6 +7,13 @@
   * Sphinx shop
   * Sandglider vessels
   * Emporium of whispers
+* Not visited places
+  * [ ] The arena
+  * [ ] Kraken's keep
+  * [ ] Remora's fishing shop
+  * [ ] Bards and nobles
+  * [ ] Arcane scrollworks
+  * [ ] Stable
 
 ## Shops
 
