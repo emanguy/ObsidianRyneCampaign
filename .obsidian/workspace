@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Locations/Ankhmar/Anasi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Locations/Ankhmar/Anasi.md"
               }
             }
           }
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Locations/Ankhmar/Anasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,10 +240,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87ea3cb391d6f39e",
+  "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities.md",
     "Locations/Ankhmar/Anasi.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Locations/Ankhmar/Ankhmar.md",
     "Locations/Overview.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",

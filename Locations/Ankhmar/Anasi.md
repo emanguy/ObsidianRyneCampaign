@@ -8,7 +8,7 @@
   * Sandglider vessels
   * Emporium of whispers
 * Not visited places
-  * [ ] The arena
+  * [x] The arena
   * [ ] Kraken's keep
   * [ ] Remora's fishing shop
   * [x] Bards and nobles
