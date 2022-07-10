@@ -10,10 +10,10 @@
 * Not visited places
   * [x] The arena
   * [x] Kraken's keep
-  * [ ] Remora's fishing shop
+  * [x] Remora's fishing shop
   * [x] Bards and nobles
   * [x] Arcane scrollworks
-  * [ ] Stable
+  * [x] Stable
 
 ## Shops
 
