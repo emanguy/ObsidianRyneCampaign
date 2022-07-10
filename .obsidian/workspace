@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md",
-                "mode": "preview",
+                "file": "Session Notes/2022-07-09.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md",
+                "file": "Session Notes/2022-07-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jump",
+                "query": "horn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md"
+                "file": "Session Notes/2022-07-09.md"
               }
             }
           }
@@ -222,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ankhmar/Anasi.md",
+                "file": "Session Notes/2022-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,12 +241,12 @@
   },
   "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
+    "Session Notes/2022-07-09.md",
     "Locations/Ankhmar/Anasi.md",
     "Xel'tra Amaranth/Abilities.md",
     "Locations/Ankhmar/Ankhmar.md",
     "Locations/Overview.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Session Notes/2022-07-09.md",
     "Characters/The Party.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Weapons.md",
