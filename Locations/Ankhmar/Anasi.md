@@ -9,7 +9,7 @@
   * Emporium of whispers
 * Not visited places
   * [x] The arena
-  * [ ] Kraken's keep
+  * [x] Kraken's keep
   * [ ] Remora's fishing shop
   * [x] Bards and nobles
   * [ ] Arcane scrollworks
