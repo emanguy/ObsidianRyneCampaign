@@ -12,7 +12,7 @@
   * [x] Kraken's keep
   * [ ] Remora's fishing shop
   * [x] Bards and nobles
-  * [ ] Arcane scrollworks
+  * [x] Arcane scrollworks
   * [ ] Stable
 
 ## Shops
