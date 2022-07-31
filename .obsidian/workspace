@@ -10,7 +10,7 @@
           {
             "id": "87ea3cb391d6f39e",
             "type": "leaf",
-            "dimension": 31.152125279642057,
+            "dimension": 31.152125279642053,
             "state": {
               "type": "markdown",
               "state": {
@@ -55,17 +55,36 @@
             "direction": "horizontal"
           },
           {
-            "id": "3fa10b37d295a56f",
-            "type": "leaf",
+            "id": "c4ab6083d1a3c7e5",
+            "type": "split",
             "dimension": 31.487695749440714,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2022-07-09.md",
-                "mode": "source",
-                "source": false
+            "children": [
+              {
+                "id": "3fa10b37d295a56f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/2022-07-09.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1c35a5c3c531f17a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -88,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-07-09.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-07-09.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -220,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-07-09.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,14 +257,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fa10b37d295a56f",
+  "active": "87ea3cb391d6f39e",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2022-07-09.md",
     "Locations/Ankhmar/Anasi.md",
     "Xel'tra Amaranth/Abilities.md",
     "Locations/Ankhmar/Ankhmar.md",
     "Locations/Overview.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/The Party.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Weapons.md",
