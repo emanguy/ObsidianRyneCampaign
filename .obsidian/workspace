@@ -65,8 +65,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/2022-07-31.md",
-                    "mode": "source",
+                    "file": "Organizations/Zentarim.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-07-31.md",
+                "file": "Organizations/Zentarim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2022-07-31.md"
+                "file": "Organizations/Zentarim.md"
               }
             }
           }
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-07-31.md",
+                "file": "Organizations/Zentarim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,15 +259,15 @@
   },
   "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
+    "Session Notes/2022-07-31.md",
+    "Reminders.md",
+    "Organizations/Zentarim.md",
     "Session Notes/2022-07-09.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Abilities.md",
     "Locations/Ankhmar/Anasi.md",
     "Locations/Ankhmar/Ankhmar.md",
     "Locations/Overview.md",
-    "Characters/The Party.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
-    "Xel'tra Amaranth/Weapons.md",
-    "Session Notes/2022-06-05.md"
+    "Characters/The Party.md"
   ]
 }
