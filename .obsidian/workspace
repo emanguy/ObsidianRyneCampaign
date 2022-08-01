@@ -65,7 +65,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Organizations/Zentarim.md",
+                    "file": "Session Notes/2022-07-31.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organizations/Zentarim.md",
+                "file": "Session Notes/2022-07-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Zentarim.md"
+                "file": "Session Notes/2022-07-31.md"
               }
             }
           }
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Zentarim.md",
+                "file": "Session Notes/2022-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,9 +259,9 @@
   },
   "active": "3fa10b37d295a56f",
   "lastOpenFiles": [
+    "Organizations/Zentarim.md",
     "Session Notes/2022-07-31.md",
     "Reminders.md",
-    "Organizations/Zentarim.md",
     "Session Notes/2022-07-09.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Abilities.md",
