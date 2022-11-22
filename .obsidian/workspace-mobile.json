@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "04c567ea997f860f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd205a97ad35189",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b25c54364d60137",
+            "type": "tabs",
+            "dimension": 31.152125279642053,
+            "children": [
+              {
+                "id": "87ea3cb391d6f39e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Xel'tra Amaranth/Abilities.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "eaedf96834fd81fe",
+            "type": "split",
+            "dimension": 37.360178970917225,
+            "children": [
+              {
+                "id": "56bb2e18c1b0ce0c",
+                "type": "tabs",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "62770885deeb78b7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Xel'tra Amaranth/Abilities/Ki.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "eb13bc3026b4fa82",
+                "type": "tabs",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "19ee8871879e19d9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Locations/Ankhmar/Ankhmar.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "c4ab6083d1a3c7e5",
+            "type": "split",
+            "dimension": 31.487695749440714,
+            "children": [
+              {
+                "id": "3422304d09cc8377",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3fa10b37d295a56f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Session Notes/2022-07-31.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "fdabb4b828b78f9c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1c35a5c3c531f17a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c44d1093d07b773c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8c83791c2637004a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a7daf6f82177e31a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "52f1ac95c306f00f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8d4c00c4283525c7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b1e5422c4f21e60b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a11e906a3acb2112",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Xel'tra Amaranth/Abilities.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7591ad6214284069",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Xel'tra Amaranth/Abilities.md"
+          }
+        }
+      },
+      {
+        "id": "ba849bb24749d2b3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "87ea3cb391d6f39e",
+  "lastOpenFiles": [
+    "Organizations/Zentarim.md",
+    "Session Notes/2022-07-31.md",
+    "Reminders.md",
+    "Session Notes/2022-07-09.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Locations/Ankhmar/Anasi.md",
+    "Locations/Ankhmar/Ankhmar.md",
+    "Locations/Overview.md",
+    "Characters/The Party.md"
+  ]
+}
