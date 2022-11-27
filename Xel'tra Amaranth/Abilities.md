@@ -32,7 +32,7 @@
 * [[Second Wind]]
   * [ ] Available (see detail for recharge)
 * [[Action Surge]]
-  * [x] Available (see detail for recharge)
+  * [ ] Available (see detail for recharge)
 
 ### Battle Master
 
@@ -44,7 +44,7 @@
 
 * [[Sharpshooter]]
 * [[Orcish Fury]]
-  * [x] Available (see detail for recharge)
+  * [ ] Available (see detail for recharge)
 
 ## Character-Specific
 
