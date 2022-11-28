@@ -30,7 +30,7 @@
 
 * [[Archery Fighting Style]]
 * [[Second Wind]]
-  * [ ] Available (see detail for recharge)
+  * [x] Available (see detail for recharge)
 * [[Action Surge]]
   * [x] Available (see detail for recharge)
 
