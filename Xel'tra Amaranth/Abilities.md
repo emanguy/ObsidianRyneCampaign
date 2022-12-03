@@ -4,7 +4,7 @@
 * Darkvision
 * [[Fey Ancestry]]
 * [[Relentless Endurance]]
-  * [x] Available (see for recharge)
+  * [ ] Available (see for recharge)
 * [[Savage Attacks]]
 
 ## Monk
@@ -30,7 +30,7 @@
 
 * [[Archery Fighting Style]]
 * [[Second Wind]]
-  * [x] Available (see detail for recharge)
+  * [ ] Available (see detail for recharge)
 * [[Action Surge]]
   * [x] Available (see detail for recharge)
 
@@ -44,7 +44,7 @@
 
 * [[Sharpshooter]]
 * [[Orcish Fury]]
-  * [ ] Available (see detail for recharge)
+  * [x] Available (see detail for recharge)
 
 ## Character-Specific
 
