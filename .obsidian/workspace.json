@@ -224,7 +224,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.7,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -232,8 +232,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7614313717262406,
-                  "close": false
+                  "scale": 0.47285015618164716,
+                  "close": true
                 }
               }
             }
@@ -263,27 +263,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c6c302c96868adc",
+  "active": "52c46ad01126babb",
   "lastOpenFiles": [
+    "Characters/NPCs/Backstory Characters/Steelhorn Thunderhammer.md",
+    "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Backstory Characters/Acatea Suyusi.md",
-    "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2023-01-07.md",
     "Session Notes/2022-07-31.md",
     "Session Notes/2022-11-27.md",
     "Characters/NPCs/Raya.md",
     "Characters/NPCs/Hara.md",
-    "Xel'tra Amaranth/Weapons.md",
-    "Characters/The Party.md"
+    "Xel'tra Amaranth/Weapons.md"
   ]
 }
