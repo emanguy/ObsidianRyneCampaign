@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
+                "file": "Xel'tra Amaranth/Abilities.md"
               }
             }
           }
@@ -210,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +222,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -233,8 +232,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6674229051169736,
-                  "close": true
+                  "scale": 0.7614313717262406,
+                  "close": false
                 }
               }
             }
@@ -245,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "file": "Xel'tra Amaranth/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,17 +273,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b537165df457efd4",
+  "active": "0c6c302c96868adc",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Characters/NPCs/Backstory Characters/Acatea Suyusi.md",
     "Xel'tra Amaranth/Abilities.md",
     "Session Notes/2023-01-07.md",
     "Session Notes/2022-07-31.md",
     "Session Notes/2022-11-27.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Raya.md",
     "Characters/NPCs/Hara.md",
     "Xel'tra Amaranth/Weapons.md",
-    "Characters/The Party.md",
-    "Session Notes/2022-05-07.md"
+    "Characters/The Party.md"
   ]
 }
