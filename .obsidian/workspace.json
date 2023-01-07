@@ -61,12 +61,8 @@
                 "id": "bc33e8fcd0afdf61",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/2022-11-27.md",
-                    "mode": "preview",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -191,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/2022-11-27.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -209,7 +203,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2022-11-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,7 +237,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,8 +256,8 @@
   },
   "active": "bc33e8fcd0afdf61",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2022-11-27.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Raya.md",
     "Characters/NPCs/Hara.md",
     "Xel'tra Amaranth/Abilities.md",
