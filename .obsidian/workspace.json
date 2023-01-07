@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,8 +145,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md"
+                "file": "Session Notes/2023-01-07.md"
               }
             }
           }
@@ -210,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2023-01-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Session Notes/2023-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,10 +273,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52c46ad01126babb",
+  "active": "bc33e8fcd0afdf61",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities/Superiority Dice.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Abilities/Superiority Dice.md",
     "Characters/NPCs/Backstory Characters/Steelhorn Thunderhammer.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/NPCs/Backstory Characters/Acatea Suyusi.md",
