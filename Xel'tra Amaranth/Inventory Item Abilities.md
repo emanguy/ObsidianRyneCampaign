@@ -8,4 +8,4 @@ If my items give me abilities, I will list them here.
 * [[Leader's Helm]]
   * [ ] Call to Arms Available
 * [[Xzar's Whistle]]
-  * [ ] Whistle available
+  * [x] Whistle available

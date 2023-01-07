@@ -32,7 +32,7 @@
 * [[Second Wind]]
   * [ ] Available (see detail for recharge)
 * [[Action Surge]]
-  * [ ] Available (see detail for recharge)
+  * [x] Available (see detail for recharge)
 
 ### Battle Master
 
