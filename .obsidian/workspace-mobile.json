@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Player Characters/Caden.md",
+                "file": "Session Notes/2023-01-07.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Player Characters/Caden.md",
+            "file": "Session Notes/2023-01-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/Player Characters/Caden.md"
+            "file": "Session Notes/2023-01-07.md"
           }
         }
       },
@@ -129,10 +129,10 @@
     ],
     "currentTab": 0
   },
-  "active": "8c83791c2637004a",
+  "active": "dabbaededfda393a",
   "lastOpenFiles": [
-    "Characters/NPCs/Noctra.md",
     "Characters/Player Characters/Caden.md",
+    "Characters/NPCs/Noctra.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Abilities/Fey Ancestry.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
