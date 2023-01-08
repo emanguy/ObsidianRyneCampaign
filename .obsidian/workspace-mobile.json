@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xel'tra Amaranth/Abilities.md",
+                "file": "Characters/Player Characters/Caden.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities.md",
+            "file": "Characters/Player Characters/Caden.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Xel'tra Amaranth/Abilities.md"
+            "file": "Characters/Player Characters/Caden.md"
           }
         }
       },
@@ -129,17 +129,17 @@
     ],
     "currentTab": 0
   },
-  "active": "dabbaededfda393a",
+  "active": "8c83791c2637004a",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities/Fey Ancestry.md",
+    "Characters/NPCs/Noctra.md",
+    "Characters/Player Characters/Caden.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Abilities/Fey Ancestry.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Characters/The Party.md",
     "Session Notes/2022-07-31.md",
     "Locations/Ankhmar/Ankhmar.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
-    "Organizations/Zentarim.md",
-    "Reminders.md",
-    "Session Notes/2022-07-09.md"
+    "Organizations/Zentarim.md"
   ]
 }
