@@ -68,7 +68,7 @@
           {
             "id": "de2bb86a2ef352b1",
             "type": "tabs",
-            "dimension": 56.22032288698955,
+            "dimension": 33.998100664767335,
             "children": [
               {
                 "id": "bc33e8fcd0afdf61",
@@ -77,7 +77,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Session Notes/2023-02-11.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -87,7 +87,7 @@
           {
             "id": "76c2a53824ab9a3e",
             "type": "tabs",
-            "dimension": 43.77967711301044,
+            "dimension": 66.00189933523268,
             "children": [
               {
                 "id": "b537165df457efd4",
