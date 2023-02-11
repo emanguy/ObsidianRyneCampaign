@@ -57,7 +57,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       },
       {
@@ -76,7 +75,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/2023-01-07.md",
+                    "file": "Session Notes/2023-02-11.md",
                     "mode": "source",
                     "source": false
                   }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023-01-07.md"
+                "file": "Session Notes/2023-02-11.md"
               }
             }
           }
@@ -223,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2023-01-07.md",
+                "file": "Session Notes/2023-02-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023-01-07.md",
+                "file": "Session Notes/2023-02-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,15 +289,15 @@
   },
   "active": "bc33e8fcd0afdf61",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities/Ki.md",
     "Session Notes/2023-01-07.md",
     "Xel'tra Amaranth/Abilities.md",
+    "Session Notes/2023-02-11.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Abilities/Ki.md",
     "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Abilities/Maneuvers.md",
     "Xel'tra Amaranth/Abilities/Untitled.md",
     "Xel'tra Amaranth/Abilities/Superiority Dice.md",
-    "Characters/NPCs/Backstory Characters/Steelhorn Thunderhammer.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Characters/NPCs/Backstory Characters/Acatea Suyusi.md"
+    "Characters/NPCs/Backstory Characters/Steelhorn Thunderhammer.md"
   ]
 }
