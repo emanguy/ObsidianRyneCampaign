@@ -55,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b392cb1c217c88de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -113,8 +125,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -220,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md"
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md"
               }
             }
           }
@@ -237,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
+                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,17 +313,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "55d19d8708ecba13",
+  "active": "b392cb1c217c88de",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Equipment/Hara's Amulet.md",
+    "Xel'tra Amaranth/Equipment/Opportunity Boots.md",
     "Session Notes/2023-02-11.md",
     "Characters/NPCs/Vecna.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Abilities/Maneuvers.md",
-    "Session Notes/2023-01-07.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
-    "Xel'tra Amaranth/Abilities/Untitled.md"
+    "Session Notes/2023-01-07.md"
   ]
 }

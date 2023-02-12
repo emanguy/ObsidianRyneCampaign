@@ -8,6 +8,7 @@ If my items give me abilities, I will list them here.
 * [[Leader's Helm]] (not currently equipped)
   * [ ] Call to Arms Available
 * [[Hara's Amulet]]
+  * [ ] Amulet charge available
 * [[Hara's Crown]]
 * [[Xzar's Whistle]]
   * [x] Whistle available
