@@ -55,21 +55,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b392cb1c217c88de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xel'tra Amaranth/Equipment/Talosshard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -144,12 +132,13 @@
                   "type": "markdown",
                   "state": {
                     "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -255,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023-02-11.md"
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md"
               }
             }
           }
@@ -272,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2023-02-11.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -307,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023-02-11.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,17 +326,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "bc33e8fcd0afdf61",
+  "active": "55d19d8708ecba13",
   "lastOpenFiles": [
-    "Session Notes/Red Death.md",
-    "Session Notes/2023-02-11.md",
-    "Xel'tra Amaranth/Equipment/Talosshard.md",
     "Xel'tra Amaranth/Weapons.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Equipment/Hara's Crown.md",
+    "Xel'tra Amaranth/Equipment/Talosshard.md",
+    "Session Notes/2023-02-11.md",
+    "Session Notes/Red Death.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Xel'tra Amaranth/Equipment/Hara's Amulet.md",
     "Xel'tra Amaranth/Equipment/Opportunity Boots.md",
-    "Characters/NPCs/Vecna.md",
-    "Xel'tra Amaranth/Abilities.md"
+    "Characters/NPCs/Vecna.md"
   ]
 }
