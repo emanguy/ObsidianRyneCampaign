@@ -12,3 +12,5 @@
   * Use an action to keep the Siege Titan disabled, starts at DC 8 and increases by 8 every attempt
 * Can spend an action to break the spear over Xel'tra's knee. This will unleash a 5th level [[Destructive Wave]].
   * Xel'tra is immune to the damage if she does this intentionally
+* **Storm king's favor** - Whenever I miss an attack, the next attack is made with advantage
+* **Strength of heart** - The damage for Talosshard is now a D8
