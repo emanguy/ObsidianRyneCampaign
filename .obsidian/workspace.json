@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -315,6 +315,8 @@
   },
   "active": "7d42716f4590f617",
   "lastOpenFiles": [
+    "Xel'tra Amaranth/Weapons.md",
+    "Session Notes/Gravity Hold.md",
     "Session Notes/2023-03-25.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2023-03-04.md",
@@ -322,8 +324,6 @@
     "Characters/NPCs/Blood Mages.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Dragonhide Belt.md",
-    "Xel'tra Amaranth/Abilities/Ki.md",
-    "Organizations/The World Bank.md",
-    "Locations/Ankhmar/Anasi.md"
+    "Xel'tra Amaranth/Abilities/Ki.md"
   ]
 }
