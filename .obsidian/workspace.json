@@ -69,6 +69,7 @@
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -230,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023-03-25.md"
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md"
               }
             }
           }
@@ -247,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2023-03-25.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023-03-25.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,10 +312,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "bc33e8fcd0afdf61",
+  "active": "55d19d8708ecba13",
   "lastOpenFiles": [
-    "Locations/Ankhmar/Valley of Corrupted Gravity.md",
     "Session Notes/2023-03-25.md",
+    "Locations/Ankhmar/Valley of Corrupted Gravity.md",
     "Locations/Ankhmar/Gravity Hold.md",
     "Xel'tra Amaranth/Abilities.md",
     "Xel'tra Amaranth/Weapons.md",

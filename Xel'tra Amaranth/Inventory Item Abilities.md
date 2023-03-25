@@ -10,6 +10,7 @@ If my items give me abilities, I will list them here.
 * [[Hara's Amulet]]
   * [ ] Amulet charge available
 * [[Hara's Crown]]
+  * [ ] Crown respawn available
 * [[Xzar's Whistle]]
   * [ ] Whistle available
 * [[Dragonhide Belt]]
