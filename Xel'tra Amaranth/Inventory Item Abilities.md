@@ -12,3 +12,5 @@ If my items give me abilities, I will list them here.
 * [[Hara's Crown]]
 * [[Xzar's Whistle]]
   * [ ] Whistle available
+* [[Dragonhide Belt]]
+  * [ ] Ki regain available
