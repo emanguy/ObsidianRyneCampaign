@@ -23,8 +23,10 @@ Glowing arcane stone that says "Harmonious sound and rhythmic chords, beloved by
 Answer: humming
 
 ### Northeast tower (outer wall)
+"I am a lie that cannot be seen, a voice without body– a conjured screen. There’s much I can do to daze and conceal, but when I am found, do you know if I’m real?"
+
 ### Northwest tower (outer wall)
-"I only respond to strength of arm, nothing arcane will bring me harm00"
+"I only respond to strength of arm, nothing arcane will bring me harm"
 
 ### Southeast tower (inner wall)
 ### Southwest tower (inner wall)
