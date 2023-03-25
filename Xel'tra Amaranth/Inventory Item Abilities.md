@@ -11,4 +11,4 @@ If my items give me abilities, I will list them here.
   * [ ] Amulet charge available
 * [[Hara's Crown]]
 * [[Xzar's Whistle]]
-  * [x] Whistle available
+  * [ ] Whistle available

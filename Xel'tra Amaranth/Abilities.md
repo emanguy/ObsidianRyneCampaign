@@ -4,7 +4,7 @@
 * Darkvision
 * [[Fey Ancestry]]
 * [[Relentless Endurance]]
-  * [x] Available (see for recharge)
+  * [ ] Available (see for recharge)
 * [[Savage Attacks]]
 
 ## Monk
@@ -32,7 +32,7 @@
 * [[Second Wind]]
   * [ ] Available (see detail for recharge)
 * [[Action Surge]]
-  * [x] Available (see detail for recharge)
+  * [ ] Available (see detail for recharge)
 
 ### Battle Master
 

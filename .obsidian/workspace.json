@@ -6,7 +6,7 @@
       {
         "id": "038a390ce6cdc604",
         "type": "tabs",
-        "dimension": 36.034115138592746,
+        "dimension": 47.98679867986799,
         "children": [
           {
             "id": "52c46ad01126babb",
@@ -69,13 +69,12 @@
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       },
       {
         "id": "879237e17c3e349d",
         "type": "split",
-        "dimension": 63.96588486140726,
+        "dimension": 52.01320132013202,
         "children": [
           {
             "id": "de2bb86a2ef352b1",
@@ -93,21 +92,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "2e665ac7504de5d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/NPCs/Red Death.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "76c2a53824ab9a3e",
@@ -174,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dex",
+                "query": "shop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,12 +169,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "fe76256b6a1a10b0",
@@ -231,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Red Death.md"
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
               }
             }
           }
@@ -248,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/NPCs/Red Death.md",
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Red Death.md",
+                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,17 +298,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "2e665ac7504de5d5",
+  "active": "b537165df457efd4",
   "lastOpenFiles": [
-    "Session Notes/2023-02-11.md",
-    "Characters/NPCs/Red Death.md",
-    "Session Notes/2023-03-04.md",
-    "Locations/Ankhmar/Peaks of Flame.md",
-    "Characters/NPCs/Floxin.md",
-    "Locations/Ankhmar/Sunset Mountains.md",
-    "Locations/Ankhmar/Ankhmar.md",
+    "Organizations/The World Bank.md",
     "Locations/Ankhmar/Anasi.md",
-    "Characters/Player Characters/Caden.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md"
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Equipment/Hara's Amulet.md",
+    "Session Notes/2023-03-04.md",
+    "Characters/NPCs/Red Death.md",
+    "Session Notes/2023-02-11.md",
+    "Locations/Ankhmar/Peaks of Flame.md"
   ]
 }
