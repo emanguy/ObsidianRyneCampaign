@@ -80,7 +80,7 @@
           {
             "id": "de2bb86a2ef352b1",
             "type": "tabs",
-            "dimension": 32.1060382916053,
+            "dimension": 59.35422602089269,
             "children": [
               {
                 "id": "bc33e8fcd0afdf61",
@@ -93,13 +93,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "7d42716f4590f617",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Gravity Hold.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "76c2a53824ab9a3e",
             "type": "tabs",
-            "dimension": 67.89396170839468,
+            "dimension": 40.64577397910731,
             "children": [
               {
                 "id": "b537165df457efd4",
@@ -219,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md"
+                "file": "Session Notes/Gravity Hold.md"
               }
             }
           }
@@ -236,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "file": "Session Notes/Gravity Hold.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xel'tra Amaranth/Xel'tra Amaranth.md",
+                "file": "Session Notes/Gravity Hold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,16 +313,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b537165df457efd4",
+  "active": "7d42716f4590f617",
   "lastOpenFiles": [
     "Session Notes/2023-03-25.md",
+    "Xel'tra Amaranth/Xel'tra Amaranth.md",
+    "Session Notes/2023-03-04.md",
     "Characters/NPCs/Threnik.md",
     "Characters/NPCs/Blood Mages.md",
-    "Session Notes/2023-03-04.md",
     "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Dragonhide Belt.md",
     "Xel'tra Amaranth/Abilities/Ki.md",
-    "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Organizations/The World Bank.md",
     "Locations/Ankhmar/Anasi.md"
   ]
