@@ -12,6 +12,8 @@ Guards the entrance to the [[Valley of Corrupted Gravity]]. The entrance is lock
 Answer: force damage
 
 ### Drum tower on outer wall East
+"A friendly gesture, a kindly word, foes reconsider, whenever it’s heard. Give me this, and I shall wake, but fail to please and I shall break."
+
 ### Inner Bailey East
 "I unlock as all doors do, a turn of the key should let you right through"
 
