@@ -7,3 +7,7 @@
 * [[Ahn’Qiraj]]
 * [[Anasi]]
 * [[Ka Amena]]
+
+## Locations
+
+* [[Sunset Mountains]]
