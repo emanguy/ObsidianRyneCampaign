@@ -88,25 +88,24 @@
                   "type": "markdown",
                   "state": {
                     "file": "Session Notes/2023-03-25.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "7d42716f4590f617",
+                "id": "52e74e7d9c030d8a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Gravity Hold.md",
-                    "mode": "source",
+                    "file": "Locations/Ankhmar/Valley of Corrupted Gravity.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "76c2a53824ab9a3e",
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Gravity Hold.md"
+                "file": "Session Notes/2023-03-25.md"
               }
             }
           }
@@ -248,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/Gravity Hold.md",
+                "file": "Session Notes/2023-03-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Gravity Hold.md",
+                "file": "Session Notes/2023-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,17 +311,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7d42716f4590f617",
+  "active": "bc33e8fcd0afdf61",
   "lastOpenFiles": [
-    "Xel'tra Amaranth/Abilities.md",
-    "Session Notes/Gravity Hold.md",
-    "Xel'tra Amaranth/Weapons.md",
+    "Locations/Ankhmar/Valley of Corrupted Gravity.md",
     "Session Notes/2023-03-25.md",
+    "Locations/Ankhmar/Gravity Hold.md",
+    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Weapons.md",
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
     "Session Notes/2023-03-04.md",
     "Characters/NPCs/Threnik.md",
     "Characters/NPCs/Blood Mages.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
-    "Xel'tra Amaranth/Dragonhide Belt.md"
+    "Xel'tra Amaranth/Inventory Item Abilities.md"
   ]
 }

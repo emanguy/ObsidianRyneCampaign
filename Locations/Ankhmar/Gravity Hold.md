@@ -31,6 +31,8 @@ Answer: humming
 "I only respond to strength of arm, nothing arcane will bring me harm"
 
 ### Southeast tower (inner wall)
+"I have no need of magic or might, I shall awaken when you are polite."
+
 ### Southwest tower (inner wall)
 To awaken me, solve my riddle.
 
