@@ -24,15 +24,17 @@ Answer: humming
 
 ### Northeast tower (outer wall)
 ### Northwest tower (outer wall)
+"I only respond to strength of arm, nothing arcane will bring me harm00"
+
 ### Southeast tower (inner wall)
 ### Southwest tower (inner wall)
 To awaken me, solve my riddle.
 
-Line 1 (infernal)
-Line 2 (elvish)
-Line 3 (dwarvish)
-Line 4 (draconic)
-Line 5 (druidic)
-Line 6 (gnomish)
-Line 7 (primordial)
-Line 8 (celestial)
+1. Infernal: “We greatly outnumber the scourge of men” 
+2. Elvish: “Yet they tread on our number without ken”
+3. Dwarvish: “We burn quite hot while the sun is bright”
+4. Draconic: “And cool with swiftness come the night” 
+5. Druidic: “Our hot wrath burns and tricks the eyes of fools” 
+6. Gnomish: “Yet theirs makes us clear as crystal pools” 
+7. Primordial: “We thrive where many men die, you see” 
+8. Celestial: “And bury them there, so who are we?”
