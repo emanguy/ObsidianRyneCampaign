@@ -45,18 +45,6 @@
             }
           },
           {
-            "id": "ebf40e45c31ab07b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xel'tra Amaranth/Weapons.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55d19d8708ecba13",
             "type": "leaf",
             "state": {
@@ -67,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebf40e45c31ab07b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xel'tra Amaranth/Weapons.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shop",
+                "query": "bonus action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023-03-25.md"
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md"
               }
             }
           }
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session Notes/2023-03-25.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023-03-25.md",
+                "file": "Xel'tra Amaranth/Inventory Item Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,17 +312,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "bc33e8fcd0afdf61",
+  "active": "55d19d8708ecba13",
   "lastOpenFiles": [
     "Xel'tra Amaranth/Xel'tra Amaranth.md",
-    "Xel'tra Amaranth/Inventory Item Abilities.md",
+    "Xel'tra Amaranth/Abilities/Rally.md",
+    "Xel'tra Amaranth/Abilities/Second Wind.md",
+    "Xel'tra Amaranth/Abilities/Step of the Wind.md",
+    "Xel'tra Amaranth/Abilities/Xzar's Whistle.md",
     "Session Notes/2023-03-25.md",
-    "Locations/Ankhmar/Valley of Corrupted Gravity.md",
-    "Locations/Ankhmar/Gravity Hold.md",
-    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Inventory Item Abilities.md",
     "Xel'tra Amaranth/Weapons.md",
-    "Session Notes/2023-03-04.md",
-    "Characters/NPCs/Threnik.md",
-    "Characters/NPCs/Blood Mages.md"
+    "Xel'tra Amaranth/Abilities.md",
+    "Xel'tra Amaranth/Abilities/Maneuvers.md"
   ]
 }
